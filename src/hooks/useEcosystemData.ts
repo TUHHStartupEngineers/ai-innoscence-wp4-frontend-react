@@ -21,7 +21,11 @@ export const useEcosystemData = (initialEcosystem: EcosystemName = 'Hamburg'): U
             setError(null);
             try {
                 const config = ECOSYSTEMS[currentEcosystem];
-                const response = await fetch(config.jsonPath);
+                // Handle GitHub Pages base path
+                const baseUrl = import.meta.env.BASE_URL.endsWith('/')
+                    ? import.meta.env.BASE_URL.slice(0, -1)
+                    : import.meta.env.BASE_URL;
+                const response = await fetch(`${baseUrl}${config.jsonPath}`);
                 if (!response.ok) {
                     throw new Error(`Failed to load data for ${currentEcosystem}`);
                 }
