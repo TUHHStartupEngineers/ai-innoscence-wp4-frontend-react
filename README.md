@@ -1,73 +1,85 @@
-# React + TypeScript + Vite
+# AI-InnoScEnCE Ecosystem Viewer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![AI-InnoScEnCE Logo](src/assets/AI-INNOCENSE-LOGO.png)
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The **Circular Economy (CE) Ecosystem Viewer** is an interactive web application designed to visualize and explore the innovation ecosystems of three pilot regions: **Hamburg** (Germany), **Novi Sad** (Serbia), and **Cahul** (Moldova).
 
-## React Compiler
+This tool allows stakeholders, researchers, and policymakers to discover entities involved in Circular Economy activities, understand their relationships, identify gaps and synergies, and foster collaboration across the ecosystem.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project is part of the **AI-InnoScEnCE** initiative (Work Package 4).
 
-## Expanding the ESLint configuration
+## ✨ Key Features
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+-   **Ecosystem Dashboard**: High-level statistics and distribution of entities by role (Startups, Academia, Industry, etc.).
+-   **Entity Browser**: Filterable list of ecosystem actors with detailed profiles, capabilities, and needs.
+-   **Interactive Map**: Geospatial visualization of entities to identify regional clusters.
+-   **Partnership Graph**: Network visualization showing existing collaborations and potential synergies.
+-   **Collaboration Finder**: Targeted search for specific CE capabilities and needs within the ecosystem.
+-   **Insights Engine**: Automated analysis identifying gaps, recommendations, and cross-cluster opportunities.
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## 🛠️ Technologies
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+This project is built using modern web technologies for performance and scalability:
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+-   **React 18**: Component-based UI library.
+-   **TypeScript**: Static type checking for robust code.
+-   **Vite**: Next-generation frontend tooling and build system.
+-   **Tailwind CSS**: Utility-first CSS framework for custom design.
+-   **Recharts**: Composable charting library for data visualization.
+-   **Lucide React**: Beautiful & consistent icon set.
+-   **Leaflet / React-Leaflet**: Open-source maps for geospatial data.
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+-   Node.js (v18 or higher)
+-   npm (v9 or higher)
+
+### Installation
+
+1.  Clone the repository:
+    ```bash
+    git clone https://github.com/TUHHStartupEngineers/ai-innoscence-wp4-frontend-react.git
+    ```
+2.  Navigate to the project directory:
+    ```bash
+    cd ai-innoscence-wp4-frontend-react
+    ```
+3.  Install dependencies:
+    ```bash
+    npm install
+    ```
+
+### Running Locally
+
+To start the development server:
+
+```bash
+npm run dev
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+### Building for Production
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+To create a production-ready build:
+
+```bash
+npm run build
 ```
+
+The output will be in the `dist` directory.
+
+## 🌍 Deployment
+
+This project is automatically deployed to **GitHub Pages** via GitHub Actions.
+Any push to the `main` branch triggers a build and deployment.
+
+**Live URL**: [https://TUHHStartupEngineers.github.io/ai-innoscence-wp4-frontend-react/](https://TUHHStartupEngineers.github.io/ai-innoscence-wp4-frontend-react/)
+
+## About
+
+© 2026 AI-InnoScEnCE Project. AI-Empowered Innovation in Natural Science and Engineering for the Circular Economy. A project funded by EIT HEI Initiative.

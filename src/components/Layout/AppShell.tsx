@@ -153,7 +153,7 @@ const AppShell: React.FC = () => {
                     <div className="max-w-[1200px] mx-auto px-5 lg:px-0">
                         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
                             <div className="text-sm text-gray-500 font-medium">
-                                © 2026 AI-InnoScEnCE Project. All rights reserved.
+                                © 2026 AI-InnoScEnCE Project. AI-Empowered Innovation in Natural Science and Engineering for the Circular Economy. A project funded by EIT HEI Initiative.
                             </div>
                             <div className="flex gap-8">
                                 <a href="https://ai-innoscence.eu" target="_blank" rel="noreferrer" className="text-brand-primary hover:text-brand-secondary transition-colors text-sm font-bold">
