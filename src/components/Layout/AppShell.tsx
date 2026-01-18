@@ -4,6 +4,7 @@ import { Menu, X, Globe } from 'lucide-react';
 import { clsx } from 'clsx';
 import { useEcosystemData } from '../../hooks/useEcosystemData';
 import { ECOSYSTEMS, type EcosystemName } from '../../types';
+import Logo from '../../assets/AI-INNOCENSE-LOGO.png';
 
 // Create a context to share ecosystem state across pages
 export interface AppContextType {
@@ -45,7 +46,7 @@ const AppShell: React.FC = () => {
                                 <div className="flex items-center gap-3">
                                     {/* Logo Placeholder - simplified version of AI-InnoScEnCE */}
                                     <img
-                                        src="/src/assets/AI-INNOCENSE-LOGO.png"
+                                        src={Logo}
                                         alt="AI-InnoScEnCE Logo"
                                         className="h-16 w-auto object-contain"
                                     />
@@ -152,7 +153,7 @@ const AppShell: React.FC = () => {
                     <div className="max-w-[1200px] mx-auto px-5 lg:px-0">
                         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
                             <div className="text-sm text-gray-500 font-medium">
-                                © 2024 AI-InnoScEnCE Project. All rights reserved.
+                                © 2026 AI-InnoScEnCE Project. All rights reserved.
                             </div>
                             <div className="flex gap-8">
                                 <a href="https://ai-innoscence.eu" target="_blank" rel="noreferrer" className="text-brand-primary hover:text-brand-secondary transition-colors text-sm font-bold">
