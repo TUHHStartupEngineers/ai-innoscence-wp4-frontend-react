@@ -6,80 +6,89 @@
 
 The **Circular Economy (CE) Ecosystem Viewer** is an interactive web application designed to visualize and explore the innovation ecosystems of three pilot regions: **Hamburg** (Germany), **Novi Sad** (Serbia), and **Cahul** (Moldova).
 
-This tool allows stakeholders, researchers, and policymakers to discover entities involved in Circular Economy activities, understand their relationships, identify gaps and synergies, and foster collaboration across the ecosystem.
+This tool allows stakeholders, researchers, and policymakers to discover entities involved in Circular Economy activities, understand their relationships, identify gaps and synergies, and foster collaboration across the ecosystem using the **CE Taxonomy**.
 
 This project is part of the **AI-InnoScEnCE** initiative (Work Package 4).
 
 ## ✨ Key Features
 
--   **Ecosystem Dashboard**: High-level statistics and distribution of entities by role (Startups, Academia, Industry, etc.).
--   **Entity Browser**: Filterable list of ecosystem actors with detailed profiles, capabilities, and needs.
--   **Interactive Map**: Geospatial visualization of entities to identify regional clusters.
--   **Partnership Graph**: Network visualization showing existing collaborations and potential synergies.
--   **Collaboration Finder**: Targeted search for specific CE capabilities and needs within the ecosystem.
--   **Insights Engine**: Automated analysis identifying gaps, recommendations, and cross-cluster opportunities.
+*   **Ecosystem Dashboard**: Real-time metrics on ecosystem growth, partnerships, and confidence levels.
+*   **Entity Registry**: Browsable database of organizations with role-based filtering and search.
+*   **Partnership Network**: Visualizing connections between entities locally and internationally.
+*   **Collaboration Finder**: Dynamic clustering of entities based on shared **Activities**, **Capabilities**, and **Needs** (grouped by CE Taxonomy categories).
+*   **Geospatial Mapping**: Interactive maps showing the physical distribution of ecosystem actors.
+*   **Data Integrity**: Verified, clean datasets with no duplicate or spurious entries.
 
 ## 🛠️ Technologies
 
-This project is built using modern web technologies for performance and scalability:
+*   **Frontend Framework**: [React 18](https://react.dev/) + [Vite](https://vitejs.dev/)
+*   **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+*   **Routing**: [React Router](https://reactrouter.com/)
+*   **Icons**: [Lucide React](https://lucide.dev/)
+*   **Maps**: [Leaflet](https://leafletjs.com/) / [React Leaflet](https://react-leaflet.js.org/)
+*   **Deployment**: GitHub Pages (via GitHub Actions)
 
--   **React 18**: Component-based UI library.
--   **TypeScript**: Static type checking for robust code.
--   **Vite**: Next-generation frontend tooling and build system.
--   **Tailwind CSS**: Utility-first CSS framework for custom design.
--   **Recharts**: Composable charting library for data visualization.
--   **Lucide React**: Beautiful & consistent icon set.
--   **Leaflet / React-Leaflet**: Open-source maps for geospatial data.
+## 📂 Project Structure
+
+```text
+src/
+├── components/      # Reusable UI components
+│   ├── Layout/      # AppShell, Navigation
+│   ├── Map/         # Leaflet Map components
+│   └── UI/          # StatsCard, Charts
+├── hooks/           # Custom hooks
+│   └── useEcosystemData.ts  # Core data fetching & clustering logic
+├── pages/           # Main application views
+│   ├── Dashboard.tsx
+│   ├── Entities.tsx
+│   ├── Collaboration.tsx    # Clusters & Taxonomy browsing
+│   └── Partnerships.tsx
+├── types/           # TypeScript definitions
+│   ├── index.ts     # Entity & Cluster interfaces
+│   └── taxonomy.ts  # CE Activity Taxonomy
+└── assets/          # Static assets (Logos, Images)
+```
+
+## 🔌 Data Sources
+
+The application consumes structured, verified JSON data located in `public/data/`:
+*   `hamburg.json`: Ecosystem data for Hamburg region.
+*   `cahul.json`: Ecosystem data for Oldenburg/Cahul region.
+*   `novi_sad.json`: Ecosystem data for Novi Sad region.
 
 ## 🚀 Getting Started
 
 ### Prerequisites
-
--   Node.js (v18 or higher)
--   npm (v9 or higher)
+*   Node.js (v18+)
+*   npm
 
 ### Installation
 
-1.  Clone the repository:
+1.  **Clone the repository**
     ```bash
     git clone https://github.com/TUHHStartupEngineers/ai-innoscence-wp4-frontend-react.git
-    ```
-2.  Navigate to the project directory:
-    ```bash
     cd ai-innoscence-wp4-frontend-react
     ```
-3.  Install dependencies:
+
+2.  **Install dependencies**
     ```bash
     npm install
     ```
 
-### Running Locally
-
-To start the development server:
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
-
-### Building for Production
-
-To create a production-ready build:
-
-```bash
-npm run build
-```
-
-The output will be in the `dist` directory.
+3.  **Run Development Server**
+    ```bash
+    npm run dev
+    ```
+    Open `http://localhost:5173` in your browser.
 
 ## 🌍 Deployment
 
 This project is automatically deployed to **GitHub Pages** via GitHub Actions.
-Any push to the `main` branch triggers a build and deployment.
+Any push to the `main` branch triggers the deployment workflow defined in `.github/workflows/deploy.yml`.
 
-**Live URL**: [https://TUHHStartupEngineers.github.io/ai-innoscence-wp4-frontend-react/](https://TUHHStartupEngineers.github.io/ai-innoscence-wp4-frontend-react/)
+**Live Demo**: [https://TUHHStartupEngineers.github.io/ai-innoscence-wp4-frontend-react/](https://TUHHStartupEngineers.github.io/ai-innoscence-wp4-frontend-react/)
 
 ## About
 
-© 2026 AI-InnoScEnCE Project. AI-Empowered Innovation in Natural Science and Engineering for the Circular Economy. A project funded by EIT HEI Initiative.
+© 2026 AI-InnoScEnCE Project. AI-Empowered Innovation in Natural Science and Engineering for the Circular Economy.
+A project funded by EIT HEI Initiative.
