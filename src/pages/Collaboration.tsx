@@ -18,7 +18,7 @@ const Collaboration: React.FC = () => {
                 <div className="max-w-[1200px] mx-auto">
                     <h1 className="text-4xl font-bold text-brand-secondary mb-4">Collaboration Finder</h1>
                     <p className="text-gray-600 text-lg max-w-2xl mb-8">
-                        Find opportunities by browsing activities, capabilities, needs, or exploring clusters.
+                        Find opportunities by browsing activities, capabilities or needs.
                     </p>
 
                     {/* Main Tabs */}

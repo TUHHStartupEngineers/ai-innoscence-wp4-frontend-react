@@ -1,22 +1,39 @@
 import React, { useContext, useState, useMemo } from 'react';
 import { AppContext } from '../components/Layout/AppShell';
-import { Search, MapPin, Globe, Filter } from 'lucide-react';
+import { Search, MapPin, Globe, Filter, ArrowUpDown, Shuffle } from 'lucide-react';
 
 const Entities: React.FC = () => {
     const context = useContext(AppContext);
     const [searchTerm, setSearchTerm] = useState('');
     const [selectedRole, setSelectedRole] = useState('All Roles');
     const [visibleCount, setVisibleCount] = useState(50);
+    const [sortOption, setSortOption] = useState<'asc' | 'desc' | 'random'>('asc');
+    const [shuffleSeed, setShuffleSeed] = useState(0);
 
     const filteredEntities = useMemo(() => {
         if (!context?.data) return [];
 
-        return context.data.entities.filter((entity: any) => {
+        let result = context.data.entities.filter((entity: any) => {
             const matchesSearch = entity.entity_name.toLowerCase().includes(searchTerm.toLowerCase());
             const matchesRole = selectedRole === 'All Roles' || entity.ecosystem_role === selectedRole;
             return matchesSearch && matchesRole;
         });
-    }, [context?.data, searchTerm, selectedRole]);
+
+        // Sorting Logic
+        if (sortOption === 'asc') {
+            result = result.sort((a: any, b: any) => a.entity_name.localeCompare(b.entity_name));
+        } else if (sortOption === 'desc') {
+            result = result.sort((a: any, b: any) => b.entity_name.localeCompare(a.entity_name));
+        } else if (sortOption === 'random') {
+            // Consistent shuffle using seed
+            result = result
+                .map((value: any) => ({ value, sort: Math.random() }))
+                .sort((a: any, b: any) => a.sort - b.sort)
+                .map(({ value }: any) => value);
+        }
+
+        return result;
+    }, [context?.data, searchTerm, selectedRole, sortOption, shuffleSeed]);
 
     if (!context || context.loading) return <div className="p-20 text-center text-gray-500 text-lg">Loading entities...</div>;
 
@@ -54,7 +71,7 @@ const Entities: React.FC = () => {
 
                     <div className="h-10 w-[1px] bg-gray-200 hidden md:block"></div>
 
-                    <div className="relative w-full md:w-[300px]">
+                    <div className="relative w-full md:w-[250px]">
                         <Filter className="absolute left-6 top-1/2 -translate-y-1/2 text-gray-400" size={20} />
                         <select
                             value={selectedRole}
@@ -68,6 +85,40 @@ const Entities: React.FC = () => {
                         <div className="absolute right-6 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400">
                             <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7"></path></svg>
                         </div>
+                    </div>
+
+                    <div className="h-10 w-[1px] bg-gray-200 hidden md:block"></div>
+
+                    <div className="relative w-full md:w-[220px] flex gap-2">
+                        <div className="relative flex-1">
+                            <ArrowUpDown className="absolute left-6 top-1/2 -translate-y-1/2 text-gray-400" size={20} />
+                            <select
+                                value={sortOption}
+                                onChange={(e) => {
+                                    const val = e.target.value as any;
+                                    setSortOption(val);
+                                    if (val === 'random') setShuffleSeed(Math.random());
+                                }}
+                                className="w-full pl-14 pr-10 py-4 bg-gray-50 border-none rounded-xl focus:bg-white focus:ring-2 focus:ring-brand-primary/20 text-gray-700 font-medium appearance-none cursor-pointer"
+                            >
+                                <option value="asc">Name (A-Z)</option>
+                                <option value="desc">Name (Z-A)</option>
+                                <option value="random">Random</option>
+                            </select>
+                            <div className="absolute right-6 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400">
+                                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7"></path></svg>
+                            </div>
+                        </div>
+
+                        {sortOption === 'random' && (
+                            <button
+                                onClick={() => setShuffleSeed(Math.random())}
+                                className="p-4 bg-gray-50 rounded-xl hover:bg-brand-primary hover:text-white transition-colors text-gray-400"
+                                title="Shuffle again"
+                            >
+                                <Shuffle size={20} />
+                            </button>
+                        )}
                     </div>
                 </div>
 

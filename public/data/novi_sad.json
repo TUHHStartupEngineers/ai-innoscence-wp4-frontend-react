@@ -67,7 +67,7 @@
     {
       "id": 2,
       "url": "http://www.ciscenje-odnosenje-ns.rs/",
-      "entity_name": "\u00c4\u008ci\u0161\u0107enje i odno\u0161enje Novi Sad",
+      "entity_name": "Čišćenje Novi Sad",
       "ecosystem_role": "Industry Partners",
       "brief_description": "Provides a wide range of cleaning and waste disposal services including attic and basement cleaning, lawn maintenance, and removal of unwanted items to the landfill. Available 24/7.",
       "ce_relation": "Contributes to the circular economy by managing waste and providing disposal services, which helps in reducing landfill usage and promoting proper waste management.",
@@ -7116,10 +7116,10 @@
       "id": 60,
       "insight_type": "geographic_cluster",
       "title": "Industrial Symbiosis Opportunity #1",
-      "description": "Geographic cluster of 32 entities within 5.0km: Otkup Sekundarnih Sirovina i Gvo\u017e\u0111a - Ritski Sinovi, \u00c4\u008ci\u0161\u0107enje i odno\u0161enje Novi Sad, \u041a\u040a\u0418\u0416\u0410\u0420\u0410 \u0411\u0415\u0421\u0415\u0414\u0410, Lely Center Novi Sad, Itera Computers.... Diverse activities (17 unique) and roles (5) suggest potential for industrial symbiosis - material/resource sharing, joint infrastructure, or waste-to-resource exchanges.",
+      "description": "Geographic cluster of 32 entities within 5.0km: Otkup Sekundarnih Sirovina i Gvo\u017e\u0111a - Ritski Sinovi, Čišćenje Novi Sad, \u041a\u040a\u0418\u0416\u0410\u0420\u0410 \u0411\u0415\u0421\u0415\u0414\u0410, Lely Center Novi Sad, Itera Computers.... Diverse activities (17 unique) and roles (5) suggest potential for industrial symbiosis - material/resource sharing, joint infrastructure, or waste-to-resource exchanges.",
       "entities_involved": [
         "Otkup Sekundarnih Sirovina i Gvo\u017e\u0111a - Ritski Sinovi",
-        "\u00c4\u008ci\u0161\u0107enje i odno\u0161enje Novi Sad",
+        "Čišćenje Novi Sad",
         "\u041a\u040a\u0418\u0416\u0410\u0420\u0410 \u0411\u0415\u0421\u0415\u0414\u0410",
         "Lely Center Novi Sad",
         "Itera Computers",
