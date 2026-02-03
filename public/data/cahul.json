@@ -1,0 +1,2381 @@
+{
+  "entities": [
+    {
+      "id": 2,
+      "url": "https://srl.md/en/societatea-cu-raspundere-limitata-good-life",
+      "entity_name": "Societatea Cu R\u0103spundere Limitat\u0103 Good Life",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "Good Life engages in a variety of activities including manufacturing, waste management, intermediation in trade, and retail sales.",
+      "ce_relation": "Contributes to the circular economy by collecting, treating, and recycling non-hazardous waste, thereby recovering materials from waste streams.",
+      "ce_activities": [
+        "Waste collection and sorting",
+        "Material recovery and extraction"
+      ],
+      "capabilities_offered": "[]",
+      "needs_requirements": [
+        "Recycled Material Supply",
+        "Waste Management Partnerships",
+        "Recycling Infrastructure Access"
+      ],
+      "capability_categories": [
+        "Sustainable Material Sourcing",
+        "CE Partnerships",
+        "Recycling Infrastructure Access"
+      ],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [
+        {
+          "activity_name": "Waste collection and sorting",
+          "description": "Collecting non-hazardous waste for further processing and recycling.",
+          "category": "Collection & Logistics"
+        },
+        {
+          "activity_name": "Material recovery and extraction",
+          "description": "Recovering materials from sorted waste streams.",
+          "category": "Resource Recovery"
+        }
+      ],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Waste Collection Services",
+          "description": "Provides services for the collection of non-hazardous waste.",
+          "category": "Waste Management"
+        },
+        {
+          "capability_name": "Waste Treatment and Disposal Services",
+          "description": "Offers treatment and disposal solutions for non-hazardous waste.",
+          "category": "Waste Management"
+        },
+        {
+          "capability_name": "Material Recovery Services",
+          "description": "Recovers sorted recyclable materials from waste streams.",
+          "category": "Material Recovery"
+        }
+      ],
+      "ce_needs_requirements": [
+        {
+          "need_name": "Recycled Material Supply",
+          "description": "Access to recycled materials for manufacturing products.",
+          "category": "Sustainable Material Sourcing"
+        },
+        {
+          "need_name": "Waste Management Partnerships",
+          "description": "Partners for waste collection and treatment services.",
+          "category": "CE Partnerships"
+        },
+        {
+          "need_name": "Recycling Infrastructure Access",
+          "description": "Access to recycling facilities for processing recyclable materials.",
+          "category": "Recycling Infrastructure Access"
+        }
+      ],
+      "mentioned_partners": [],
+      "discovered_entities": [
+        {
+          "name": "MivoCloud",
+          "url": "https://www.mivocloud.md",
+          "brief_description": "A web hosting provider based in Moldova.",
+          "context": "Mentioned as the hosting service for SRL.MD"
+        }
+      ],
+      "address": "str. \u015eolohov Mihail, 34, ap.(of.) 6, Cahul, Moldova",
+      "latitude": 45.8967184,
+      "longitude": 28.1921985,
+      "extraction_timestamp": "2025-12-29T22:49:35.333366",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/275a32eec6a5cc59/20251229_224514_extracted.txt",
+      "raw_html_original_path": "raw_html/275a32eec6a5cc59/20251229_224514_raw.html"
+    },
+    {
+      "id": 3,
+      "url": "https://www.infodebit.md/1014343/intreprinderea-comunala-municinala-colibasi",
+      "entity_name": "INTREPRINDEREA COMUNALA (MUNICINALA) COLIBASI",
+      "ecosystem_role": "Public Authorities",
+      "brief_description": "The entity is involved in waste disposal, wastewater treatment, sanitation, and similar activities.",
+      "ce_relation": "Contributes to the circular economy by managing waste streams and ensuring proper disposal, which helps in reducing environmental pollution.",
+      "ce_activities": [
+        "Waste collection and sorting"
+      ],
+      "capabilities_offered": "[]",
+      "needs_requirements": [
+        "Waste Management Solutions"
+      ],
+      "capability_categories": [
+        "Waste Management Solutions"
+      ],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [
+        {
+          "activity_name": "Waste collection and sorting",
+          "description": "Manages the collection of waste and ensures it is sorted for appropriate disposal or recycling.",
+          "category": "Collection & Logistics"
+        }
+      ],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Waste Disposal Services",
+          "description": "Provides services for the elimination of waste and wastewater, sanitation, and hygiene.",
+          "category": "Waste Management"
+        },
+        {
+          "capability_name": "Construction Engineering Services",
+          "description": "Offers civil engineering construction activities related to waste management infrastructure.",
+          "category": "Recycling Infrastructure"
+        }
+      ],
+      "ce_needs_requirements": [
+        {
+          "need_name": "Waste Management Solutions",
+          "description": "Processing capabilities for waste management and sanitation activities.",
+          "category": "Waste Management Solutions"
+        }
+      ],
+      "mentioned_partners": [],
+      "discovered_entities": [
+        {
+          "name": "INTREPRINDEREA COMUNALA (MUNICINALA) COLIBASI",
+          "url": "https://www.infodebit.md/istoric-de-credit/intreprinderea-comunala-municipala-colibasi-1014343",
+          "brief_description": "A municipal enterprise engaged in waste disposal, sanitation, and similar activities.",
+          "context": "Mentioned as a municipal company involved in waste management and sanitation services."
+        }
+      ],
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "extraction_timestamp": "2025-12-29T22:51:05.148051",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/9639e22542916cbc/20251229_224829_extracted.txt",
+      "raw_html_original_path": "raw_html/9639e22542916cbc/20251229_224829_raw.html"
+    },
+    {
+      "id": 5,
+      "url": "https://www.srl.md/en/firma-cvemax-srl",
+      "entity_name": "Firma Cvemax SRL",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "Firma Cvemax SRL engages in retail trade and repair services for household and personal items. They also provide other business-oriented service activities.",
+      "ce_relation": "Contributes to the circular economy by extending product lifespans through repair services.",
+      "ce_activities": [
+        "Repair services and workshops"
+      ],
+      "capabilities_offered": "[]",
+      "needs_requirements": [],
+      "capability_categories": [],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [
+        {
+          "activity_name": "Repair services and workshops",
+          "description": "Providing repair services for household and personal items, extending their lifespan.",
+          "category": "Use & Consumption"
+        }
+      ],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Repair Services",
+          "description": "Provides repair services for household and personal items.",
+          "category": "Product Life Extension"
+        }
+      ],
+      "ce_needs_requirements": [],
+      "mentioned_partners": [],
+      "discovered_entities": [
+        {
+          "name": "Firma Cvemax SRL",
+          "url": "https://www.srl.md/firma-cvemax-srl",
+          "brief_description": "A limited liability company engaged in retail trade and repair services.",
+          "context": "Mentioned on the website with details about their activities and status."
+        }
+      ],
+      "address": "Cahul, str. 31 August 1989, 11, Moldova",
+      "latitude": 45.9043844,
+      "longitude": 28.190348,
+      "extraction_timestamp": "2025-12-29T22:51:52.291883",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/6517cad8e6e3d04d/20251229_224937_extracted.txt",
+      "raw_html_original_path": "raw_html/6517cad8e6e3d04d/20251229_224937_raw.html"
+    },
+    {
+      "id": 6,
+      "url": "https://dgicahul.md/ip-lt-ioan-voda-mun-cahul-anunta-concursul-pentru-ocuparea-functiei-vacante-de-dai-si-dae",
+      "entity_name": "IP Liceul Teoretic \u201eIoan Vod\u0103\u201d",
+      "ecosystem_role": "Higher Education Institutions",
+      "brief_description": "IP Liceul Teoretic \u201eIoan Vod\u0103\u201d is an educational institution located in Cahul, Moldova. The school conducts a competitive process for vacant positions such as director and deputy director.",
+      "ce_relation": "",
+      "ce_activities": [],
+      "capabilities_offered": "[]",
+      "needs_requirements": [],
+      "capability_categories": [],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [],
+      "ce_capabilities_offered": [],
+      "ce_needs_requirements": [],
+      "mentioned_partners": [],
+      "discovered_entities": [
+        {
+          "name": "Direc\u021bia General\u0103 \u00cenv\u0103\u021b\u0103m\u00e2nt Cahul",
+          "url": "http://old.dgicahul.md/index.php",
+          "brief_description": "The Cahul General Education Directorate oversees educational institutions in the Cahul region.",
+          "context": "Discovered on the website as a relevant education entity."
+        },
+        {
+          "name": "Ministerul Educa\u021biei",
+          "url": "http://www.edu.gov.md/",
+          "brief_description": "The Ministry of Education is responsible for overseeing and managing the education system in Moldova.",
+          "context": "Discovered on the website as a relevant government entity."
+        }
+      ],
+      "address": "MD 3900 Cahul, str. \u015etefan cel Mare 118",
+      "latitude": 45.9153764,
+      "longitude": 28.2160094,
+      "extraction_timestamp": "2025-12-29T22:52:07.245281",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/a207959e3a7cfb12/20251229_224514_extracted.txt",
+      "raw_html_original_path": "raw_html/a207959e3a7cfb12/20251229_224514_raw.html"
+    },
+    {
+      "id": 7,
+      "url": "https://sudinvest.md/despre-noi/despre-parcul-industrial",
+      "entity_name": "Parcul Industrial SUDINVEST Cahul",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "The Parcul Industrial SUDINVEST Cahul is an industrial park located in Cahul, Moldova, offering infrastructure and services to companies for production activities. It provides utilities like electricity, gas, water, and offers centralized services such as construction, maintenance, and waste management.",
+      "ce_relation": "",
+      "ce_activities": [],
+      "capabilities_offered": "[]",
+      "needs_requirements": [],
+      "capability_categories": [],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Waste Evacuation Services",
+          "description": "Provides services for the evacuation of waste.",
+          "category": "Waste Management"
+        },
+        {
+          "capability_name": "Industrial Loading and Unloading Services",
+          "description": "Offers loading and unloading services with industrial equipment, including transportation of goods.",
+          "category": "Waste Management"
+        }
+      ],
+      "ce_needs_requirements": [],
+      "mentioned_partners": [],
+      "discovered_entities": [
+        {
+          "name": "Sudinvest Cahul Industrial Park",
+          "url": "https://sudinvest.md",
+          "brief_description": "An industrial park located in Cahul, Moldova offering various facilities and services to businesses.",
+          "context": "Described on the website as an industrial park with detailed information about its infrastructure and services."
+        }
+      ],
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "extraction_timestamp": "2025-12-29T22:53:05.356945",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/9822e23affb095a2/20251229_225107_extracted.txt",
+      "raw_html_original_path": "raw_html/9822e23affb095a2/20251229_225107_raw.html"
+    },
+    {
+      "id": 9,
+      "url": "https://srl.md/societatea-cu-raspundere-limitata-servnic-tan",
+      "entity_name": "Societatea Cu R\u0103spundere Limitat\u0103 Servnic&Tan",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "Servnic&Tan is involved in manufacturing, repair of electrical equipment, construction work, wholesale and retail trade of various products including household appliances, cosmetics, personal care items, and transportation services.",
+      "ce_relation": "Extends product lifespans through repair services, contributing to the circular economy by reducing waste and promoting reuse.",
+      "ce_activities": [
+        "Repair services and workshops"
+      ],
+      "capabilities_offered": "[]",
+      "needs_requirements": [],
+      "capability_categories": [],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [
+        {
+          "activity_name": "Repair services and workshops",
+          "description": "Provides repair services for electrical equipment, extending their lifespan and reducing waste.",
+          "category": "Use & Consumption"
+        }
+      ],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Electronics Repair",
+          "description": "Provides repair services for electrical equipment.",
+          "category": "Product Life Extension"
+        },
+        {
+          "capability_name": "Electric Installation Work",
+          "description": "Offers specialized construction work related to electric installations.",
+          "category": "Product Life Extension"
+        }
+      ],
+      "ce_needs_requirements": [],
+      "mentioned_partners": [],
+      "discovered_entities": [
+        {
+          "name": "MivoCloud",
+          "url": "https://www.mivocloud.md",
+          "brief_description": "A hosting provider in Moldova.",
+          "context": "Mentioned at the bottom of the website as a hosting service."
+        }
+      ],
+      "address": "str. L\u0103utarilor, 136, Cahul, Moldova",
+      "latitude": 45.898434,
+      "longitude": 28.18225,
+      "extraction_timestamp": "2025-12-29T22:54:41.756747",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/60afe364f9f70c16/20251229_225154_extracted.txt",
+      "raw_html_original_path": "raw_html/60afe364f9f70c16/20251229_225154_raw.html"
+    },
+    {
+      "id": 10,
+      "url": "https://sudinvest.md/",
+      "entity_name": "Parcul Industrial Cahul Sudinvest",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "Parcul Industrial Cahul Sudinvest provides a favorable environment for investments by offering infrastructure, tax benefits, and support services to industrial residents.",
+      "ce_relation": "",
+      "ce_activities": [],
+      "capabilities_offered": "[]",
+      "needs_requirements": [
+        "Recycling Infrastructure Access",
+        "CE Partnerships"
+      ],
+      "capability_categories": [],
+      "partners": [
+        "Asocia\u021biile Parcurilor Industriale din Rom\u00e2nia",
+        "Asocia\u021biile Patronale ale Parcurilor Industriale din Republica Moldova"
+      ],
+      "partner_urls": [],
+      "ce_activities_structured": [],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Waste Disposal Services",
+          "description": "The entity offers services for the evacuation of waste.",
+          "category": "Waste Management"
+        },
+        {
+          "capability_name": "Infrastructure Consulting and Support",
+          "description": "The administrative enterprise provides centralized services to residents, including technical, legal, accounting, and advertising consulting.",
+          "category": "CE Consulting"
+        }
+      ],
+      "ce_needs_requirements": [
+        {
+          "need_name": "Recycling Infrastructure Access",
+          "description": "Access to recycling facilities for processing waste materials.",
+          "category": "Recycling Infrastructure Access"
+        },
+        {
+          "need_name": "CE Partnerships",
+          "description": "Industry partners for collaboration on circular economy initiatives.",
+          "category": "CE Partnerships"
+        }
+      ],
+      "mentioned_partners": [
+        {
+          "name": "Asocia\u021biile Parcurilor Industriale din Rom\u00e2nia",
+          "url": null,
+          "context": "Partner in cooperation agreement with the Association of Industrial Parks from Moldova"
+        },
+        {
+          "name": "Asocia\u021biile Patronale ale Parcurilor Industriale din Republica Moldova",
+          "url": null,
+          "context": "Partner in cooperation agreement with the Associations of Industrial Parks from Romania"
+        }
+      ],
+      "discovered_entities": [
+        {
+          "name": "Portul Interna\u0163ional Giurgiule\u015fti",
+          "url": "https://www.portulgiurgiulesti.md/",
+          "brief_description": "A major international port providing maritime and river access.",
+          "context": "Mentioned as providing maritime and fluvial accessibility."
+        }
+      ],
+      "address": "\u0218oseaua Grivi\u021bei, 3901 Cahul, Moldova",
+      "latitude": 45.8885669,
+      "longitude": 28.1883752,
+      "extraction_timestamp": "2025-12-29T22:55:52.356605",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/6e804db7c9f80cdb/20251229_225209_extracted.txt",
+      "raw_html_original_path": "raw_html/6e804db7c9f80cdb/20251229_225209_raw.html"
+    },
+    {
+      "id": 11,
+      "url": "https://moldova1.md/p/51631",
+      "entity_name": "\u0218coala Profesional\u0103 nr. 2 din Cahul",
+      "ecosystem_role": "Higher Education Institutions",
+      "brief_description": "The school has installed a photovoltaic system with a capacity of 50 kW and a mobile photovoltaic station of 2 kW, integrated into both the institution's infrastructure and the professional training process. This investment aims to reduce energy bills by up to 60% and modernize the curriculum.",
+      "ce_relation": "Contributes to the circular economy by promoting sustainable energy practices and integrating renewable energy systems into educational curricula, thereby fostering a culture of sustainability among students.",
+      "ce_activities": [
+        "Energy recovery from waste",
+        "Sustainability education programs"
+      ],
+      "capabilities_offered": "[]",
+      "needs_requirements": [
+        "Sustainable Energy Infrastructure",
+        "Educational Curriculum Modernization"
+      ],
+      "capability_categories": [
+        "Waste Management Solutions",
+        "Circular Design Expertise"
+      ],
+      "partners": [
+        "German Foundation"
+      ],
+      "partner_urls": [],
+      "ce_activities_structured": [
+        {
+          "activity_name": "Energy recovery from waste",
+          "description": "The school has installed photovoltaic panels which help in recovering energy through solar power, reducing dependency on non-renewable sources and lowering electricity bills by up to 60%.",
+          "category": "Resource Recovery"
+        },
+        {
+          "activity_name": "Sustainability education programs",
+          "description": "The curriculum has been updated to include modules on the installation and maintenance of photovoltaic systems, providing students with practical skills in renewable energy technologies.",
+          "category": "Education & Research"
+        }
+      ],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Solar Energy Installation and Maintenance Training",
+          "description": "Provides training for students on the installation and maintenance of solar energy systems, including both stationary and mobile photovoltaic stations.",
+          "category": "Product Life Extension"
+        },
+        {
+          "capability_name": "Energy Efficiency Infrastructure Implementation",
+          "description": "Installs and manages a 50 kW photovoltaic system and a 2 kW mobile station to reduce electricity bills by up to 60% for the school, demonstrating sustainable energy use.",
+          "category": "Sustainable Materials"
+        }
+      ],
+      "ce_needs_requirements": [
+        {
+          "need_name": "Sustainable Energy Infrastructure",
+          "description": "Installation of photovoltaic systems to reduce energy costs and promote sustainable practices.",
+          "category": "Waste Management Solutions"
+        },
+        {
+          "need_name": "Educational Curriculum Modernization",
+          "description": "Updating the curriculum to include modules on installing and maintaining photovoltaic systems.",
+          "category": "Circular Design Expertise"
+        }
+      ],
+      "mentioned_partners": [
+        {
+          "name": "German Foundation",
+          "url": null,
+          "context": "Contributed over 233,000 lei towards the installation of photovoltaic systems at Cahul Professional School No. 2."
+        }
+      ],
+      "discovered_entities": [],
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "extraction_timestamp": "2025-12-29T22:57:10.352219",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/a256392d7417f2db/20251229_225307_extracted.txt",
+      "raw_html_original_path": "raw_html/a256392d7417f2db/20251229_225307_raw.html"
+    },
+    {
+      "id": 12,
+      "url": "https://eef.md/ro/fondul-de-sustinere-al-antreprenoriatului-pentru-tineri-cahul-asociatia-perspectiva/335",
+      "entity_name": "Fondul de Sus\u021binere al Antreprenoriatului pentru Tineri Cahul: Asocia\u021bia \u201ePerspectiva\u201d",
+      "ecosystem_role": "Startups and Entrepreneurs",
+      "brief_description": "The organization aims to support young entrepreneurs in the Cahul region by providing advisory services, assistance, and post-assistance through a Youth Entrepreneurship Support Fund. They promote an entrepreneurial culture among at least 300 target group members and provide financial support in the form of mini-grants for starting and developing businesses.",
+      "ce_relation": "",
+      "ce_activities": [],
+      "capabilities_offered": "[]",
+      "needs_requirements": [
+        "Funding for Young Entrepreneurs",
+        "Business Consulting Services"
+      ],
+      "capability_categories": [
+        "CE Funding",
+        "Circular Design Expertise"
+      ],
+      "partners": [
+        "Consiliul Na\u021bional al Tineretului din Moldova",
+        "Centrul Parteneriat pentru Dezvoltare",
+        "Agen\u021bia pentru Dezvoltare Regional\u0103 din Transnistria"
+      ],
+      "partner_urls": [],
+      "ce_activities_structured": [],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Entrepreneurial Consulting Services",
+          "description": "Provides consulting, assistance, and post-assistance services to encourage entrepreneurial initiatives among young people in the Cahul region.",
+          "category": "CE Consulting"
+        },
+        {
+          "capability_name": "Financial Support for Startups",
+          "description": "Offers mini-grants to support the creation and development of 8 businesses aimed at creating jobs, thereby promoting sustainable community development.",
+          "category": "Product Life Extension"
+        }
+      ],
+      "ce_needs_requirements": [
+        {
+          "need_name": "Funding for Young Entrepreneurs",
+          "description": "Financial support in the form of mini-grants to start and develop businesses, aiming at creating jobs.",
+          "category": "CE Funding"
+        },
+        {
+          "need_name": "Business Consulting Services",
+          "description": "Provision of consulting services, assistance, and post-assistance for young entrepreneurs in Cahul region.",
+          "category": "Circular Design Expertise"
+        }
+      ],
+      "mentioned_partners": [
+        {
+          "name": "Consiliul Na\u021bional al Tineretului din Moldova",
+          "url": null,
+          "context": "Partner in the project 'Better Opportunities for NEET Youth'"
+        },
+        {
+          "name": "Centrul Parteneriat pentru Dezvoltare",
+          "url": null,
+          "context": "Partner in the project 'Better Opportunities for NEET Youth'"
+        },
+        {
+          "name": "Agen\u021bia pentru Dezvoltare Regional\u0103 din Transnistria",
+          "url": null,
+          "context": "Partner in the project 'Better Opportunities for NEET Youth'"
+        }
+      ],
+      "discovered_entities": [
+        {
+          "name": "Asocia\u021bia \u201ePerspectiva\u201d",
+          "url": "https://www.perspectiva.org.md/",
+          "brief_description": "An association that supports youth entrepreneurship in Cahul.",
+          "context": "Mentioned as implementing the project 'Youth Entrepreneurship Support Fund'"
+        }
+      ],
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "extraction_timestamp": "2025-12-29T23:03:19.590245",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/ea9d5c5a0c68fdde/20251229_225443_extracted.txt",
+      "raw_html_original_path": "raw_html/ea9d5c5a0c68fdde/20251229_225443_raw.html"
+    },
+    {
+      "id": 13,
+      "url": "https://printmaster-cahul.com/",
+      "entity_name": "Printmaster Cahul",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "Printmaster Cahul is a Industry Partners operating in the circular economy ecosystem.",
+      "ce_relation": "",
+      "ce_activities": [],
+      "capabilities_offered": "[]",
+      "needs_requirements": [],
+      "capability_categories": [],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Waste Bags Supply",
+          "description": "Provides various sizes and quantities of waste bags for garbage disposal.",
+          "category": "Waste Management"
+        }
+      ],
+      "ce_needs_requirements": [],
+      "mentioned_partners": [],
+      "discovered_entities": [],
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "extraction_timestamp": "2025-12-29T23:05:33.999455",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/15e209962c5e9e9e/20251229_225713_extracted.txt",
+      "raw_html_original_path": "raw_html/15e209962c5e9e9e/20251229_225713_raw.html"
+    },
+    {
+      "id": 14,
+      "url": "https://colmedcahul.md/discipline-de-specialitate-nr-1",
+      "entity_name": "Colegiul de Medicin\u0103 Cahul",
+      "ecosystem_role": "Higher Education Institutions",
+      "brief_description": "Cahul Medical College is a higher education institution offering medical career training, organizing educational events and conferences.",
+      "ce_relation": "",
+      "ce_activities": [],
+      "capabilities_offered": "[]",
+      "needs_requirements": [],
+      "capability_categories": [],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [],
+      "ce_capabilities_offered": [],
+      "ce_needs_requirements": [],
+      "mentioned_partners": [],
+      "discovered_entities": [],
+      "address": "Strada Principala, nr. 123, Cahul, MD-5600",
+      "latitude": 45.8958495,
+      "longitude": 28.1989639,
+      "extraction_timestamp": "2025-12-29T23:05:45.736878",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/3bb66f06685e4e9c/20251229_225358_extracted.txt",
+      "raw_html_original_path": "raw_html/3bb66f06685e4e9c/20251229_225358_raw.html"
+    },
+    {
+      "id": 15,
+      "url": "https://www.infodebit.md/1008603004996/intreprindere-mixta-eco-sistem-srl",
+      "entity_name": "\u00centreprindere Mixt\u0103 ECO SISTEM S.R.L.",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "ECO SISTEM SRL is involved in the recovery of recyclable waste and metal residues, distillation of \u0163uic\u0103 (a traditional Romanian plum brandy), buying and selling of real estate properties, and trade of solid, liquid, and gaseous fuels and their derivatives.",
+      "ce_relation": "Contributes by recovering materials from waste streams, specifically focusing on metal and non-metallic recyclable waste.",
+      "ce_activities": [
+        "Metal recycling and recovery",
+        "Material recovery and extraction"
+      ],
+      "capabilities_offered": "[]",
+      "needs_requirements": [
+        "Material Inputs",
+        "Processing Partners",
+        "Customers for Recycled Products"
+      ],
+      "capability_categories": [
+        "Sustainable Material Sourcing",
+        "Recycling Infrastructure Access",
+        "Market Access"
+      ],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [
+        {
+          "activity_name": "Metal recycling and recovery",
+          "description": "Recovers metallic waste and recycles it into usable materials.",
+          "category": "Recycling & Processing"
+        },
+        {
+          "activity_name": "Material recovery and extraction",
+          "description": "Recovers non-metallic recyclable waste for further processing and reuse.",
+          "category": "Resource Recovery"
+        }
+      ],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Metal Waste Recovery",
+          "description": "Provides services for the recovery of recyclable metal waste and residues.",
+          "category": "Material Recovery"
+        },
+        {
+          "capability_name": "Non-Metallic Waste Recovery",
+          "description": "Offers services for the recovery of non-metallic recyclable waste and residues.",
+          "category": "Material Recovery"
+        }
+      ],
+      "ce_needs_requirements": [
+        {
+          "need_name": "Material Inputs",
+          "description": "Access to recycled metals and non-metallic recyclable waste for processing.",
+          "category": "Sustainable Material Sourcing"
+        },
+        {
+          "need_name": "Processing Partners",
+          "description": "Collaboration with partners who can provide additional recycling capabilities or technologies.",
+          "category": "Recycling Infrastructure Access"
+        },
+        {
+          "need_name": "Customers for Recycled Products",
+          "description": "Market access to sell processed recycled materials and products.",
+          "category": "Market Access"
+        }
+      ],
+      "mentioned_partners": [],
+      "discovered_entities": [
+        {
+          "name": "ECO SISTEM S.R.L.",
+          "url": "http://www.infodebit.md",
+          "brief_description": "A company engaged in the recovery of waste and recyclable metal residues.",
+          "context": "Mentioned on the website as a related entity involved in similar activities."
+        }
+      ],
+      "address": "Cahul, str. Vi\u0219inilor, 93, MD-2069",
+      "latitude": 45.8958495,
+      "longitude": 28.1989639,
+      "extraction_timestamp": "2025-12-29T23:06:52.367881",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/c102024e7c79b591/20251229_230321_extracted.txt",
+      "raw_html_original_path": "raw_html/c102024e7c79b591/20251229_230321_raw.html"
+    },
+    {
+      "id": 16,
+      "url": "https://ecou.md/",
+      "entity_name": "Centrul de Analiz\u0103 \u0219i Prevenire a Corup\u021biei (CAPC)",
+      "ecosystem_role": "Non-Governmental Organizations",
+      "brief_description": "CAPC is involved in implementing anti-corruption expertise at the local level, collaborating with other organizations to expand practices for evaluating the corruptibility of regulatory acts.",
+      "ce_relation": "",
+      "ce_activities": [],
+      "capabilities_offered": "[]",
+      "needs_requirements": [],
+      "capability_categories": [],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Digital Inclusion and Education",
+          "description": "ECOU provides digital education and inclusion programs to reduce the digital divide in Moldova.",
+          "category": "CE Consulting"
+        },
+        {
+          "capability_name": "Transparency Monitoring for Local Enterprises",
+          "description": "ECOU implements projects aimed at monitoring transparency and integrity policies of local municipal enterprises.",
+          "category": "CE Consulting"
+        },
+        {
+          "capability_name": "Citizen Participation in Local Governance",
+          "description": "ECOU promotes citizen participation in local governance through various educational and participatory initiatives.",
+          "category": "CE Consulting"
+        }
+      ],
+      "ce_needs_requirements": [],
+      "mentioned_partners": [],
+      "discovered_entities": [],
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "extraction_timestamp": "2025-12-29T23:07:04.279725",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/ec786e39b9864058/20251229_225554_extracted.txt",
+      "raw_html_original_path": "raw_html/ec786e39b9864058/20251229_225554_raw.html"
+    },
+    {
+      "id": 18,
+      "url": "https://mesterul.md/collections/all",
+      "entity_name": "Mesterul.md",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "Connects Moldova with the best craftsmen, offering a wide range of services including construction, repairs, plumbing, electrical work, and more.",
+      "ce_relation": "",
+      "ce_activities": [],
+      "capabilities_offered": "[]",
+      "needs_requirements": [],
+      "capability_categories": [],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [
+        {
+          "activity_name": "Repair services and workshops",
+          "description": "Entity performs repair services and workshops activities",
+          "category": "Use & Consumption"
+        }
+      ],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Use & Consumption Services",
+          "description": "Provides services related to repair services and workshops",
+          "category": "Use & Consumption"
+        }
+      ],
+      "ce_needs_requirements": [],
+      "mentioned_partners": [],
+      "discovered_entities": [
+        {
+          "name": "ProfiDan Construct SRL",
+          "url": "https://www.profidan.md",
+          "brief_description": "Provides interior repair and renovation services.",
+          "context": "Mentioned in the service offerings section."
+        }
+      ],
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "extraction_timestamp": "2025-12-29T23:12:32.434378",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/15e8ac944ffe02b5/20251229_230536_extracted.txt",
+      "raw_html_original_path": "raw_html/15e8ac944ffe02b5/20251229_230536_raw.html"
+    },
+    {
+      "id": 19,
+      "url": "https://www.suedzucker.md/",
+      "entity_name": "S\u00fcdzucker Moldova",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "S\u00fcdzucker Moldova is a mixed Moldovan-German company and the leader in sugar beet industry in the Republic of Moldova, part of the European S\u00fcdzucker AG group, which is the largest sugar producer in Europe.",
+      "ce_relation": "",
+      "ce_activities": [],
+      "capabilities_offered": "[]",
+      "needs_requirements": [],
+      "capability_categories": [],
+      "partners": [
+        "S\u00fcdzucker AG"
+      ],
+      "partner_urls": [],
+      "ce_activities_structured": [],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Biogas Installation",
+          "description": "Operates a large-scale biogas project, which is considered one of the largest 'green energy' projects in Moldova.",
+          "category": "Sustainable Materials"
+        }
+      ],
+      "ce_needs_requirements": [],
+      "mentioned_partners": [
+        {
+          "name": "S\u00fcdzucker AG",
+          "url": null,
+          "context": "Parent company of S\u00fcdzucker Moldova"
+        }
+      ],
+      "discovered_entities": [],
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "extraction_timestamp": "2025-12-29T23:12:42.189114",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/bfe5279ef1da04d5/20251229_230548_extracted.txt",
+      "raw_html_original_path": "raw_html/bfe5279ef1da04d5/20251229_230548_raw.html"
+    },
+    {
+      "id": 22,
+      "url": "https://imgcl-cahul.md/despre-noi",
+      "entity_name": "Gospodaria Comunal Locativ\u0103 Cahul",
+      "ecosystem_role": "Public Authorities",
+      "brief_description": "The Municipal Enterprise Gospodaria Comunal Locativ\u0103 Cahul provides municipal services including waste management and maintenance of water supply systems, sewage systems, and apartment block facilities.",
+      "ce_relation": "Contributes to the circular economy by managing waste collection and processing, thereby recovering materials from waste streams.",
+      "ce_activities": [
+        "Waste collection and sorting",
+        "Repair services and workshops"
+      ],
+      "capabilities_offered": "[]",
+      "needs_requirements": [
+        "Waste Management Solutions",
+        "Recycling Infrastructure Access"
+      ],
+      "capability_categories": [
+        "Waste Management Solutions",
+        "Recycling Infrastructure Access"
+      ],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [
+        {
+          "activity_name": "Waste collection and sorting",
+          "description": "Collecting and sorting municipal solid waste for proper disposal or recycling.",
+          "category": "Collection & Logistics"
+        },
+        {
+          "activity_name": "Repair services and workshops",
+          "description": "Providing repair services for communal systems such as water supply, drainage, and elevator maintenance in residential blocks.",
+          "category": "Use & Consumption"
+        }
+      ],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Waste Collection Services",
+          "description": "Provides waste collection services for both communal and private sectors, including solid household waste and liquid waste from accumulation tanks.",
+          "category": "Waste Management"
+        },
+        {
+          "capability_name": "Solid Waste Disposal",
+          "description": "Handles the disposal of solid household waste at designated landfills.",
+          "category": "Waste Management"
+        }
+      ],
+      "ce_needs_requirements": [
+        {
+          "need_name": "Waste Management Solutions",
+          "description": "Processing capabilities for solid and liquid waste management.",
+          "category": "Waste Management Solutions"
+        },
+        {
+          "need_name": "Recycling Infrastructure Access",
+          "description": "Access to recycling facilities for processing municipal solid waste.",
+          "category": "Recycling Infrastructure Access"
+        }
+      ],
+      "mentioned_partners": [],
+      "discovered_entities": [
+        {
+          "name": "Consiliul Municipal Cahul",
+          "url": "http://www.cahul.md",
+          "brief_description": "The municipal council of Cahul, responsible for local governance.",
+          "context": "Mentioned as the founder of Gospodaria Comunal Locativ\u0103 Cahul"
+        }
+      ],
+      "address": "Str. 31 August 15, Cahul MD-3909, Republica Moldova",
+      "latitude": 45.9046503,
+      "longitude": 28.1926399,
+      "extraction_timestamp": "2025-12-29T23:17:25.281913",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/6a187543c382313d/20251229_231235_extracted.txt",
+      "raw_html_original_path": "raw_html/6a187543c382313d/20251229_231235_raw.html"
+    },
+    {
+      "id": 23,
+      "url": "http://www.covoare.md/",
+      "entity_name": "Covoare Ungheni",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "Covoare Ungheni is a Industry Partners operating in the circular economy ecosystem.",
+      "ce_relation": "Contributes to the circular economy by using recycled materials in their products, extending product lifespans through design and material selection.",
+      "ce_activities": [
+        "Plastic recycling and processing",
+        "Eco-design and design for circularity"
+      ],
+      "capabilities_offered": "[]",
+      "needs_requirements": [
+        "Recycled Materials",
+        "Partnership Opportunities"
+      ],
+      "capability_categories": [
+        "Sustainable Material Sourcing",
+        "CE Partnerships"
+      ],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [
+        {
+          "activity_name": "Plastic recycling and processing",
+          "description": "Processes recycled materials for use in their carpet collections.",
+          "category": "Recycling & Processing"
+        },
+        {
+          "activity_name": "Eco-design and design for circularity",
+          "description": "Designs carpets with a focus on sustainability, using regenerable and biodegradable materials.",
+          "category": "Design & Production"
+        }
+      ],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Recycled Fiber Carpets",
+          "description": "Offers carpets made from recycled fibers, contributing to sustainable materials and waste reduction.",
+          "category": "Sustainable Materials"
+        }
+      ],
+      "ce_needs_requirements": [
+        {
+          "need_name": "Recycled Material Supply",
+          "description": "Access to recycled materials for manufacturing carpets.",
+          "category": "Sustainable Material Sourcing"
+        },
+        {
+          "need_name": "Industry Partnerships",
+          "description": "Collaboration with industry partners for sustainable practices and innovation.",
+          "category": "CE Partnerships"
+        }
+      ],
+      "mentioned_partners": [],
+      "discovered_entities": [
+        {
+          "name": "Heimtextil Frankfurt",
+          "url": "https://www.heimtextil.com/",
+          "brief_description": "A trade fair for home textiles and interior design.",
+          "context": "Recognized as a trendsetter in the textile industry."
+        }
+      ],
+      "address": "str. \u0218tefan cel Mare, 102, Cahul, Moldova",
+      "latitude": 45.9119835,
+      "longitude": 28.2101474,
+      "extraction_timestamp": "2025-12-29T23:22:29.248698",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/414ddcdb2d3938e2/20251229_231429_extracted.txt",
+      "raw_html_original_path": "raw_html/414ddcdb2d3938e2/20251229_231429_raw.html"
+    },
+    {
+      "id": 24,
+      "url": "https://casaauto.md/chip-tuning-de/moldova",
+      "entity_name": "CasaAuto.md",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "CasaAuto.md provides chip tuning services to enhance vehicle performance, with a long experience in the field and an excellent reputation.",
+      "ce_relation": "",
+      "ce_activities": [],
+      "capabilities_offered": "[]",
+      "needs_requirements": [],
+      "capability_categories": [],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [],
+      "ce_capabilities_offered": [],
+      "ce_needs_requirements": [],
+      "mentioned_partners": [],
+      "discovered_entities": [],
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "extraction_timestamp": "2025-12-29T23:27:40.283314",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/9a6d63bdc93be240/20251229_231244_extracted.txt",
+      "raw_html_original_path": "raw_html/9a6d63bdc93be240/20251229_231244_raw.html"
+    },
+    {
+      "id": 27,
+      "url": "http://www.ase.md/ro",
+      "entity_name": "Academia de Studii Economice din Moldova (ASEM)",
+      "ecosystem_role": "Higher Education Institutions",
+      "brief_description": "ASEM is a higher education institution offering economic studies at the undergraduate, master's, and doctoral levels. Additionally, ASEM actively engages in research through its Institute of Economic Research and European Studies.",
+      "ce_relation": "",
+      "ce_activities": [],
+      "capabilities_offered": "[]",
+      "needs_requirements": [],
+      "capability_categories": [],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [],
+      "ce_capabilities_offered": [],
+      "ce_needs_requirements": [],
+      "mentioned_partners": [],
+      "discovered_entities": [],
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "extraction_timestamp": "2025-12-29T23:30:09.626909",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/9fdaded38bfd6f0b/20251229_231727_extracted.txt",
+      "raw_html_original_path": "raw_html/9fdaded38bfd6f0b/20251229_231727_raw.html"
+    },
+    {
+      "id": 28,
+      "url": "https://www.infodebit.md/1012603001400/societatea-cu-raspundere-limitata-lapin-com",
+      "entity_name": "LAPIN COM",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "LAPIN COM is involved in the maintenance and repair of motor vehicles, retail trade of vehicle parts, components, and accessories, and other personal service activities.",
+      "ce_relation": "Extends product lifespans through repair services, contributing to the circular economy by reducing waste and promoting sustainable use of resources.",
+      "ce_activities": [
+        "Repair services and workshops"
+      ],
+      "capabilities_offered": "[]",
+      "needs_requirements": [],
+      "capability_categories": [],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [
+        {
+          "activity_name": "Repair services and workshops",
+          "description": "Providing repair services for automobiles, extending their lifespan and reducing waste.",
+          "category": "Use & Consumption"
+        }
+      ],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Vehicle Repair Services",
+          "description": "Provides repair and maintenance services for automobiles.",
+          "category": "Product Life Extension"
+        },
+        {
+          "capability_name": "Auto Parts Sales",
+          "description": "Sells spare parts, components, and accessories for automobiles.",
+          "category": "Product Life Extension"
+        }
+      ],
+      "ce_needs_requirements": [],
+      "mentioned_partners": [],
+      "discovered_entities": [
+        {
+          "name": "Infodebit",
+          "url": "https://www.infodebit.md",
+          "brief_description": "A credit reporting and financial information service provider in Moldova.",
+          "context": "Mentioned as a personal data operator on the website."
+        }
+      ],
+      "address": "Cahul, str. Prospectul Republicii, 24/A, ap.(of.) 4, MD-2069",
+      "latitude": 45.9025585,
+      "longitude": 28.1950573,
+      "extraction_timestamp": "2025-12-29T23:30:58.212643",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/aace1d944c6054c4/20251229_232743_extracted.txt",
+      "raw_html_original_path": "raw_html/aace1d944c6054c4/20251229_232743_raw.html"
+    },
+    {
+      "id": 29,
+      "url": "https://metals.md/despre-noi",
+      "entity_name": "MTC (Metal Cutting Company)",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "MTC is a specialized company producing attachments for agriculture and construction located in the Republic of Moldova. They also offer additional services such as laser CNC cutting, metal bending, welding, and repair of attachments.",
+      "ce_relation": "Contributes to the circular economy by offering repair and maintenance services for equipment, extending product lifespans.",
+      "ce_activities": [
+        "Repair services and workshops"
+      ],
+      "capabilities_offered": "[]",
+      "needs_requirements": [],
+      "capability_categories": [],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [
+        {
+          "activity_name": "Repair services and workshops",
+          "description": "Providing repair and restoration of equipment and components, ensuring longevity and reuse.",
+          "category": "Use & Consumption"
+        }
+      ],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Metal Cutting and Laser CNC Services",
+          "description": "Provides services for laser cutting, engraving metals, welding, and repairing attachments.",
+          "category": "Product Life Extension"
+        },
+        {
+          "capability_name": "Equipment Repair and Restoration",
+          "description": "Offers repair and restoration of equipment and components with a quality guarantee.",
+          "category": "Repair Services"
+        }
+      ],
+      "ce_needs_requirements": [],
+      "mentioned_partners": [],
+      "discovered_entities": [
+        {
+          "name": "MTC (Metal Cutting Company)",
+          "url": "https://metals.md",
+          "brief_description": "A specialized company producing attachments for agriculture and construction located in the Republic of Moldova.",
+          "context": "Described on their 'About Us' page"
+        }
+      ],
+      "address": "Strada Veche 121, Cahul, MD-5300, Moldova",
+      "latitude": 45.9167334,
+      "longitude": 28.204671,
+      "extraction_timestamp": "2025-12-29T23:31:55.587770",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/2c3135fb867ffcb7/20251229_232919_extracted.txt",
+      "raw_html_original_path": "raw_html/2c3135fb867ffcb7/20251229_232919_raw.html"
+    },
+    {
+      "id": 32,
+      "url": "http://infodebit.md/1021603002157/societatea-cu-raspundere-limitata-pro100-service",
+      "entity_name": "Societatea cu R\u0103spundere Limitat\u0103 PRO100-SERVICE",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "PRO100-SERVICE provides maintenance and repair services for vehicles, as well as retail sales of vehicle parts and accessories.",
+      "ce_relation": "Contributes to the circular economy by extending product lifespans through repair services and recovering materials from waste streams.",
+      "ce_activities": [
+        "Repair services and workshops",
+        "Material recovery and extraction"
+      ],
+      "capabilities_offered": "[]",
+      "needs_requirements": [],
+      "capability_categories": [],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [
+        {
+          "activity_name": "Repair services and workshops",
+          "description": "Providing repair services for vehicles, extending their lifespan.",
+          "category": "Use & Consumption"
+        },
+        {
+          "activity_name": "Material recovery and extraction",
+          "description": "Recovering materials from dismantled machines and equipment.",
+          "category": "Resource Recovery"
+        }
+      ],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Vehicle Repair Services",
+          "description": "Provides repair and maintenance services for automobiles.",
+          "category": "Product Life Extension"
+        },
+        {
+          "capability_name": "Material Recovery Services",
+          "description": "Engages in the dismantling of machines and equipment to recover recyclable materials.",
+          "category": "Material Recovery"
+        }
+      ],
+      "ce_needs_requirements": [],
+      "mentioned_partners": [],
+      "discovered_entities": [
+        {
+          "name": "INFODEBIT CREDIT REPORT PERSONAL DATA OPERATOR",
+          "url": "https://www.infodebit.md",
+          "brief_description": "Provides credit report and personal data services.",
+          "context": "Mentioned in the footer as a related service provider"
+        }
+      ],
+      "address": "Cahul, str. P\u0103cii, 28, ap.(of.) 27, MD-2069, Moldova",
+      "latitude": 45.89063059999999,
+      "longitude": 28.1935562,
+      "extraction_timestamp": "2025-12-29T23:34:01.933050",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/1f015add8d51df90/20251229_233011_extracted.txt",
+      "raw_html_original_path": "raw_html/1f015add8d51df90/20251229_233011_raw.html"
+    },
+    {
+      "id": 35,
+      "url": "https://www.runpay.md/",
+      "entity_name": "RunPay",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "RunPay payment system, administered by Paymaster SRL, is a convenient and accessible online payment system for paying a wide range of services in the Republic of Moldova market.",
+      "ce_relation": "",
+      "ce_activities": [],
+      "capabilities_offered": "[]",
+      "needs_requirements": [],
+      "capability_categories": [],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [],
+      "ce_capabilities_offered": [],
+      "ce_needs_requirements": [],
+      "mentioned_partners": [],
+      "discovered_entities": [],
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "extraction_timestamp": "2025-12-29T23:44:30.784629",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/6a5dcf1687af432a/20251229_233308_extracted.txt",
+      "raw_html_original_path": "raw_html/6a5dcf1687af432a/20251229_233308_raw.html"
+    },
+    {
+      "id": 37,
+      "url": "https://timpul.md/articol/orasul-cahul-model-de-succes-de-dezvoltare-urbana-in-rep-moldova-grant-de-8-milioane-de-euro-pentru-continuarea-modernizarii-orasului.html",
+      "entity_name": "Timpul.md",
+      "ecosystem_role": "Media and Communication Partners",
+      "brief_description": "Timpul.md is a Media and Communication Partners operating in the circular economy ecosystem.",
+      "ce_relation": "",
+      "ce_activities": [],
+      "capabilities_offered": "[]",
+      "needs_requirements": [
+        "Recycling Infrastructure Access",
+        "CE Funding"
+      ],
+      "capability_categories": [],
+      "partners": [
+        "Banca German\u0103 de Dezvoltare KfW",
+        "Ministry of Finance of the Republic of Moldova"
+      ],
+      "partner_urls": [],
+      "ce_activities_structured": [],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Water and Sewage Infrastructure Development",
+          "description": "The city of Cahul is modernizing its water and sewage infrastructure, including the construction of 22 kilometers of water and sewer networks in Cahul and Crihana Veche. This includes vital work at a new water capture station on the Prut River and the rehabilitation of the potable water treatment plant in Cahul.",
+          "category": "Waste Management"
+        }
+      ],
+      "ce_needs_requirements": [
+        {
+          "need_name": "Recycling Infrastructure Access",
+          "description": "Access to recycling facilities for modernizing the city infrastructure, including water and sewage networks.",
+          "category": "Recycling Infrastructure Access"
+        },
+        {
+          "need_name": "CE Funding",
+          "description": "Grant of 8 million euros for continuing urban development in Cahul, Republic of Moldova.",
+          "category": "CE Funding"
+        }
+      ],
+      "mentioned_partners": [
+        {
+          "name": "Banca German\u0103 de Dezvoltare KfW",
+          "url": null,
+          "context": "Funding partner for the modernization of Cahul's infrastructure"
+        },
+        {
+          "name": "Ministry of Finance of the Republic of Moldova",
+          "url": null,
+          "context": "Signed the financing agreement for Cahul's development project"
+        }
+      ],
+      "discovered_entities": [
+        {
+          "name": "KfW (German Development Bank)",
+          "url": "https://www.kfw.de/",
+          "brief_description": "A German state-owned development bank that provides loans and grants for sustainable projects.",
+          "context": "Mentioned as a funding partner in the modernization of Cahul's infrastructure"
+        }
+      ],
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "extraction_timestamp": "2025-12-30T00:01:35.067276",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/9e713f6ed1803449/20251229_234423_extracted.txt",
+      "raw_html_original_path": "raw_html/9e713f6ed1803449/20251229_234423_raw.html"
+    },
+    {
+      "id": 38,
+      "url": "https://www.ecredit.md/",
+      "entity_name": "Ecredit",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "Ecredit is a Industry Partners operating in the circular economy ecosystem.",
+      "ce_relation": "",
+      "ce_activities": [],
+      "capabilities_offered": "[]",
+      "needs_requirements": [],
+      "capability_categories": [],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [],
+      "ce_capabilities_offered": [],
+      "ce_needs_requirements": [],
+      "mentioned_partners": [],
+      "discovered_entities": [],
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "extraction_timestamp": "2025-12-30T00:06:24.108153",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/4de93ff62b569213/20251229_233406_extracted.txt",
+      "raw_html_original_path": "raw_html/4de93ff62b569213/20251229_233406_raw.html"
+    },
+    {
+      "id": 39,
+      "url": "https://srl.md/societatea-cu-raspundere-limitata-garden-house",
+      "entity_name": "Societatea Cu R\u0103spundere Limitat\u0103 Garden House",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "Societatea Cu R\u0103spundere Limitat\u0103 Garden House is a Industry Partners operating in the circular economy ecosystem.",
+      "ce_relation": "Contributes to the circular economy by managing waste collection and processing, including both hazardous and non-hazardous waste.",
+      "ce_activities": [
+        "Waste collection and sorting",
+        "Hazardous waste collection"
+      ],
+      "capabilities_offered": "[]",
+      "needs_requirements": [
+        "Recycling Infrastructure Access",
+        "Waste Management Solutions"
+      ],
+      "capability_categories": [
+        "Recycling Infrastructure Access",
+        "Waste Management Solutions"
+      ],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [
+        {
+          "activity_name": "Waste collection and sorting",
+          "description": "Collecting and sorting various types of waste for further processing or disposal.",
+          "category": "Collection & Logistics"
+        },
+        {
+          "activity_name": "Hazardous waste collection",
+          "description": "Specialized collection services for hazardous waste to ensure safe handling and disposal.",
+          "category": "Collection & Logistics"
+        }
+      ],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Waste Collection Services",
+          "description": "Provides services for the collection of non-hazardous and hazardous waste.",
+          "category": "Waste Management"
+        },
+        {
+          "capability_name": "Water Treatment and Distribution",
+          "description": "Offers services related to capturing, treating, and distributing water.",
+          "category": "Waste Management"
+        },
+        {
+          "capability_name": "Equipment Repair Services",
+          "description": "Provides repair services for various types of equipment.",
+          "category": "Product Life Extension"
+        }
+      ],
+      "ce_needs_requirements": [
+        {
+          "need_name": "Recycling Infrastructure Access",
+          "description": "Access to recycling facilities for processing waste materials.",
+          "category": "Recycling Infrastructure Access"
+        },
+        {
+          "need_name": "Waste Management Solutions",
+          "description": "Processing capabilities for the collection and treatment of hazardous and non-hazardous waste.",
+          "category": "Waste Management Solutions"
+        }
+      ],
+      "mentioned_partners": [],
+      "discovered_entities": [
+        {
+          "name": "MivoCloud",
+          "url": "https://www.mivocloud.md",
+          "brief_description": "Provides hosting services in Moldova.",
+          "context": "Mentioned as the hosting provider for SRL.MD"
+        }
+      ],
+      "address": "Cahul, str. Doinelor, 11",
+      "latitude": 45.894945,
+      "longitude": 28.195989,
+      "extraction_timestamp": "2025-12-30T00:07:30.672337",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/71e5e3a2480dca15/20251230_000031_extracted.txt",
+      "raw_html_original_path": "raw_html/71e5e3a2480dca15/20251230_000031_raw.html"
+    },
+    {
+      "id": 40,
+      "url": "https://agrobiznes.md/foto-imexagro-a-deschis-la-cahul-cel-de-al-doilea-centru-multifunctional-agricol-land-protection.html",
+      "entity_name": "Imexagro",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "Imexagro has opened a Multifunctional Center named 'Land Protection' in the southern region of the Republic of Moldova. This center provides services and products for farmers, including soil testing, specialist consultation, and storage facilities for fertilizers.",
+      "ce_relation": "",
+      "ce_activities": [],
+      "capabilities_offered": "[]",
+      "needs_requirements": [],
+      "capability_categories": [],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Agricultural Consulting Services",
+          "description": "Provides agricultural consulting services including product recommendations and application guidance for farmers.",
+          "category": "CE Consulting"
+        },
+        {
+          "capability_name": "Product Storage Facilities",
+          "description": "Offers standardized storage facilities equipped with air purification units to maintain product quality during storage.",
+          "category": "Material Recovery"
+        }
+      ],
+      "ce_needs_requirements": [],
+      "mentioned_partners": [],
+      "discovered_entities": [],
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "extraction_timestamp": "2025-12-30T00:09:23.317206",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/9c70c41ef8ee2068/20251229_234432_extracted.txt",
+      "raw_html_original_path": "raw_html/9c70c41ef8ee2068/20251229_234432_raw.html"
+    },
+    {
+      "id": 41,
+      "url": "https://srl.md/en/societatea-cu-raspundere-limitata-sudserv-n-d",
+      "entity_name": "Societatea Cu R\u0103spundere Limitat\u0103 Sudserv N&D",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "Sudserv N&D is involved in a variety of activities including the dismantling and recycling of machinery, construction projects, vehicle sales and maintenance, wholesale trade of various goods, retail sales in specialized stores, transportation services, warehousing, catering, bar operations, property leasing, and personal service activities.",
+      "ce_relation": "Contributes to the circular economy by recovering materials from dismantled machines and equipment, extending product lifespans through repair services, and potentially offering second-hand products.",
+      "ce_activities": [
+        "Design for disassembly and modularity",
+        "Repair services and workshops"
+      ],
+      "capabilities_offered": "[]",
+      "needs_requirements": [
+        "Recycled Materials",
+        "Partnership Opportunities"
+      ],
+      "capability_categories": [
+        "Sustainable Material Sourcing",
+        "CE Partnerships"
+      ],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [
+        {
+          "activity_name": "Design for disassembly and modularity",
+          "description": "Dismantling (disassembling) machines and equipment to recover materials.",
+          "category": "Design & Production"
+        },
+        {
+          "activity_name": "Repair services and workshops",
+          "description": "Providing repair services for vehicles and other equipment.",
+          "category": "Use & Consumption"
+        }
+      ],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Material Recovery from Demolition",
+          "description": "Provides services for the dismantling of machines and equipment to recover materials.",
+          "category": "Material Recovery"
+        },
+        {
+          "capability_name": "Vehicle Repair Services",
+          "description": "Offers maintenance and repair services for vehicles.",
+          "category": "Product Life Extension"
+        }
+      ],
+      "ce_needs_requirements": [
+        {
+          "need_name": "Recycled Material Supply",
+          "description": "Access to recycled materials from decommissioned machines and equipment for recovery purposes.",
+          "category": "Sustainable Material Sourcing"
+        },
+        {
+          "need_name": "Industry Partnerships",
+          "description": "Partnership opportunities with industry players for collaboration in recycling and construction projects.",
+          "category": "CE Partnerships"
+        }
+      ],
+      "mentioned_partners": [],
+      "discovered_entities": [
+        {
+          "name": "MivoCloud",
+          "url": "https://www.mivocloud.md",
+          "brief_description": "A web hosting company based in Moldova.",
+          "context": "Mentioned as the hosting provider for SRL.MD"
+        }
+      ],
+      "address": "str. Cebotari Maria, Cahul, Pa\u015fcani, Moldova",
+      "latitude": 45.8274679,
+      "longitude": 28.1827326,
+      "extraction_timestamp": "2025-12-30T00:10:27.102049",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/7fa07be79154d92d/20251230_000625_extracted.txt",
+      "raw_html_original_path": "raw_html/7fa07be79154d92d/20251230_000625_raw.html"
+    },
+    {
+      "id": 43,
+      "url": "http://dgicahul.md/ip-gimnaziul-bogdan-petriceicu-hasdeu-s-tataresti-raionul-cahul-anunta-concurs-pentru-ocuparea-functiei-vacante-de-dai",
+      "entity_name": "IP Gimnaziul 'Dimitrie Cantemir'",
+      "ecosystem_role": "Higher Education Institutions",
+      "brief_description": "The institution is a secondary school that conducts educational activities and organizes competitions for the recruitment of vacant positions such as deputy director.",
+      "ce_relation": "",
+      "ce_activities": [],
+      "capabilities_offered": "[]",
+      "needs_requirements": [],
+      "capability_categories": [],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [],
+      "ce_capabilities_offered": [],
+      "ce_needs_requirements": [],
+      "mentioned_partners": [],
+      "discovered_entities": [
+        {
+          "name": "Direc\u021bia General\u0103 de \u00cenv\u0103\u021b\u0103m\u00e2nt Cahul",
+          "url": "http://old.dgicahul.md/index.php",
+          "brief_description": "The General Education Directorate for the Cahul region, responsible for overseeing educational institutions in the area.",
+          "context": "Mentioned as a link to their archived website."
+        },
+        {
+          "name": "Ministerul Educa\u021biei",
+          "url": "http://www.edu.gov.md/",
+          "brief_description": "The Ministry of Education of Moldova, responsible for managing and overseeing educational policies and institutions.",
+          "context": "Mentioned as a link to their official website."
+        },
+        {
+          "name": "Sigur Online",
+          "url": "https://siguronline.md/",
+          "brief_description": "A platform providing online security services in Moldova.",
+          "context": "Mentioned as a useful link on the page."
+        },
+        {
+          "name": "Consiliul Na\u021bional pentru protec\u021bia Drepturilor Copilului",
+          "url": "http://www.cnpdc.gov.md/ro",
+          "brief_description": "The National Council for Child Rights Protection, responsible for safeguarding children's rights in Moldova.",
+          "context": "Mentioned as a useful link on the page."
+        }
+      ],
+      "address": "Tartaul de Salcie, Cahul, Republica Moldova",
+      "latitude": 45.9702826,
+      "longitude": 28.4083312,
+      "extraction_timestamp": "2025-12-30T00:11:37.952910",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/ab27fbc8bc2e0f43/20251230_000137_extracted.txt",
+      "raw_html_original_path": "raw_html/ab27fbc8bc2e0f43/20251230_000137_raw.html"
+    },
+    {
+      "id": 48,
+      "url": "https://locuri.md/2024/12/27/potcoava-verde-o-agropensiune-unica-din-sudul-moldovei",
+      "entity_name": "Potcoava Verde",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "Potcoava Verde is a unique agropensiune located in Slobozia Mare, Cahul, Moldova. It combines rural tourism with respect for nature and offers a range of services including horseback riding tours, boat excursions, comfortable accommodation, and recreational activities for families.",
+      "ce_relation": "",
+      "ce_activities": [],
+      "capabilities_offered": "[]",
+      "needs_requirements": [
+        "Funding for Expansion",
+        "Sustainable Material Sourcing"
+      ],
+      "capability_categories": [
+        "CE Funding",
+        "Sustainable Material Sourcing"
+      ],
+      "partners": [
+        "EU4Moldova: Regiuni-cheie",
+        "UNDP (United Nations Development Programme)",
+        "UNICEF"
+      ],
+      "partner_urls": [],
+      "ce_activities_structured": [],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Eco-Tourism Services",
+          "description": "Offers a range of eco-tourism services including horseback rides, boat tours, and fishing in the natural surroundings of Lake Beleu.",
+          "category": "Reuse & Redistribution"
+        },
+        {
+          "capability_name": "Sustainable Accommodation",
+          "description": "Provides comfortable accommodation in container houses equipped with all necessary utilities, promoting sustainable tourism experiences.",
+          "category": "Sustainable Materials"
+        }
+      ],
+      "ce_needs_requirements": [
+        {
+          "need_name": "Funding for Expansion",
+          "description": "Financial support to extend the tourism offerings and improve facilities.",
+          "category": "CE Funding"
+        },
+        {
+          "need_name": "Sustainable Material Sourcing",
+          "description": "Access to sustainable materials for constructing and maintaining tourist facilities.",
+          "category": "Sustainable Material Sourcing"
+        }
+      ],
+      "mentioned_partners": [
+        {
+          "name": "EU4Moldova: Regiuni-cheie",
+          "url": null,
+          "context": "Program funded by the European Union and implemented by UNDP and UNICEF, supporting regional development in Cahul and Ungheni."
+        },
+        {
+          "name": "UNDP (United Nations Development Programme)",
+          "url": null,
+          "context": "Implementing partner for EU4Moldova program"
+        },
+        {
+          "name": "UNICEF",
+          "url": null,
+          "context": "Implementing partner for EU4Moldova program"
+        }
+      ],
+      "discovered_entities": [
+        {
+          "name": "Agrobiznes",
+          "url": "https://agrobiznes.md/",
+          "brief_description": "Agricultural news and information platform in Moldova.",
+          "context": "Initiator of the project 'Locuri.md'"
+        },
+        {
+          "name": "Jaman Tech",
+          "url": "https://jaman-tech.com/",
+          "brief_description": "Technology company that develops websites and platforms for local businesses in Moldova.",
+          "context": "Developer of the platform 'Locuri.md'"
+        }
+      ],
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "extraction_timestamp": "2025-12-30T00:18:54.161824",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/44aaa843dd64c1e0/20251230_001400_extracted.txt",
+      "raw_html_original_path": "raw_html/44aaa843dd64c1e0/20251230_001400_raw.html"
+    },
+    {
+      "id": 49,
+      "url": "https://www.starofservice.md/dir/md/cahul/cahul/reparatii-auto",
+      "entity_name": "Starofservice",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "Starofservice is a Industry Partners operating in the circular economy ecosystem.",
+      "ce_relation": "",
+      "ce_activities": [],
+      "capabilities_offered": "[]",
+      "needs_requirements": [
+        "Recycled Plastic Supply",
+        "Industry Partnerships"
+      ],
+      "capability_categories": [],
+      "partners": [
+        "Hamburg Wasser",
+        "Bio4Circularity Network"
+      ],
+      "partner_urls": [
+        "https://www.bio4circularity.eu/"
+      ],
+      "ce_activities_structured": [],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Auto Repair Services",
+          "description": "Provides repair services for automobiles, extending the life of vehicles.",
+          "category": "Product Life Extension"
+        }
+      ],
+      "ce_needs_requirements": [
+        {
+          "need_name": "Recycled Plastic Supply",
+          "description": "Access to recycled plastics for manufacturing",
+          "category": "Sustainable Material Sourcing"
+        },
+        {
+          "need_name": "Industry Partnerships",
+          "description": "Industry partners for collaboration",
+          "category": "CE Partnerships"
+        }
+      ],
+      "mentioned_partners": [
+        {
+          "name": "Hamburg Wasser",
+          "url": "",
+          "context": "Partnership for sustainable water management"
+        },
+        {
+          "name": "Bio4Circularity Network",
+          "url": "https://www.bio4circularity.eu",
+          "context": "Founding member of Bio4Circularity Network"
+        }
+      ],
+      "discovered_entities": [
+        {
+          "name": "GreenTech Innovations",
+          "url": "https://www.greentechinnovations.com",
+          "brief_description": "A company specializing in green technology solutions for sustainable development.",
+          "context": "Mentioned as a key player in the circular economy sector"
+        },
+        {
+          "name": "Circular Economy Hub",
+          "url": "https://www.circulareconomyhub.org",
+          "brief_description": "An organization that promotes and supports initiatives related to the circular economy.",
+          "context": "Highlighted as an important resource for circular economy information"
+        }
+      ],
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "extraction_timestamp": "2025-12-30T00:19:16.602662",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "",
+      "raw_html_original_path": ""
+    },
+    {
+      "id": 50,
+      "url": "https://www.infodebit.md/1023603000559/societatea-cu-raspundere-limitata-jardin-expert",
+      "entity_name": "Societatea cu R\u0103spundere Limitat\u0103 JARDIN EXPERT",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "Jardin Expert is involved in leasing and renting of automobiles and light trucks, as well as construction activities such as concrete product manufacturing and waste management.",
+      "ce_relation": "",
+      "ce_activities": [],
+      "capabilities_offered": "[]",
+      "needs_requirements": [],
+      "capability_categories": [],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Waste Collection Services",
+          "description": "Provides services for the collection of non-hazardous waste.",
+          "category": "Waste Management"
+        },
+        {
+          "capability_name": "Waste Treatment and Disposal Services",
+          "description": "Offers treatment and disposal solutions for non-hazardous waste.",
+          "category": "Waste Management"
+        }
+      ],
+      "ce_needs_requirements": [],
+      "mentioned_partners": [],
+      "discovered_entities": [
+        {
+          "name": "INFODEBIT CREDIT REPORT PERSONAL DATA OPERATOR",
+          "url": "https://www.infodebit.md",
+          "brief_description": "Provides credit report and personal data operator services.",
+          "context": "Mentioned in the footer section of the website."
+        }
+      ],
+      "address": "Cahul, str. L\u0103utarilor, 11, MD-2069, Moldova",
+      "latitude": 45.907524,
+      "longitude": 28.186601,
+      "extraction_timestamp": "2025-12-30T00:24:11.660828",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/f1bd6d138b71046b/20251230_001740_extracted.txt",
+      "raw_html_original_path": "raw_html/f1bd6d138b71046b/20251230_001740_raw.html"
+    },
+    {
+      "id": 101,
+      "url": "https://www.infodebit.md/en/company/advanced",
+      "entity_name": "Infodebit",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "Infodebit is a Industry Partners operating in the circular economy ecosystem.",
+      "ce_relation": "",
+      "ce_activities": [],
+      "capabilities_offered": "[]",
+      "needs_requirements": [],
+      "capability_categories": [],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Waste Collection and Processing",
+          "description": "Provides services for the collection, processing, and recycling of metal waste and batteries.",
+          "category": "Material Recovery"
+        },
+        {
+          "capability_name": "Repair Services for Firearms",
+          "description": "Offers repair services for sporting and hunting firearms.",
+          "category": "Product Life Extension"
+        }
+      ],
+      "ce_needs_requirements": [],
+      "mentioned_partners": [],
+      "discovered_entities": [],
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "extraction_timestamp": "2025-12-30T00:56:36.360748",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/19bafb9fe6853987/20251230_001856_extracted.txt",
+      "raw_html_original_path": "raw_html/19bafb9fe6853987/20251230_001856_raw.html"
+    },
+    {
+      "id": 102,
+      "url": "https://viacahul.md/",
+      "entity_name": "Clusterul Turistic \"VIA Cahul\"",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "The VIA Cahul Tourism Cluster was established on April 27, 2022, in the Cahul region of southern Moldova. Its goal is to consolidate regional partnerships for developing the tourism sector, enhance competitiveness of tourism businesses, and widely promote the regional tourism product.",
+      "ce_relation": "",
+      "ce_activities": [],
+      "capabilities_offered": "[]",
+      "needs_requirements": [
+        "Sustainable Tourism Development",
+        "Marketing and Promotion",
+        "Research and Development Partnerships"
+      ],
+      "capability_categories": [
+        "Circular Design Expertise",
+        "Market Access",
+        "CE Partnerships"
+      ],
+      "partners": [
+        "International Partner",
+        "Research and Development Institution"
+      ],
+      "partner_urls": [],
+      "ce_activities_structured": [],
+      "ce_capabilities_offered": [],
+      "ce_needs_requirements": [
+        {
+          "need_name": "Sustainable Tourism Development",
+          "description": "Need for developing green tourism initiatives to enhance the region's attractiveness and sustainability.",
+          "category": "Circular Design Expertise"
+        },
+        {
+          "need_name": "Marketing and Promotion",
+          "description": "Seeking effective marketing strategies to promote the region as a tourist destination.",
+          "category": "Market Access"
+        },
+        {
+          "need_name": "Research and Development Partnerships",
+          "description": "Looking for partnerships with research institutions to apply innovations in tourism development.",
+          "category": "CE Partnerships"
+        }
+      ],
+      "mentioned_partners": [
+        {
+          "name": "International Partner",
+          "url": null,
+          "context": "One of the international partners in the cluster"
+        },
+        {
+          "name": "Research and Development Institution",
+          "url": null,
+          "context": "Partner for innovation and development projects"
+        }
+      ],
+      "discovered_entities": [
+        {
+          "name": "Asocia\u021bia Ob\u0219teasc\u0103 \u00e2\u0080\u009cPro Parteneriat pentru Dezvoltare Durabil\u0103\u00e2\u0080\u009d",
+          "url": "http://www.viaca.hul.com",
+          "brief_description": "Manages the VIA Cahul Tourism Cluster and promotes sustainable development in the region.",
+          "context": "Management entity of the VIA Cahul Tourism Cluster"
+        }
+      ],
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "extraction_timestamp": "2025-12-30T00:57:23.838129",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/ae8b78bee06e6ce6/20251230_001919_extracted.txt",
+      "raw_html_original_path": "raw_html/ae8b78bee06e6ce6/20251230_001919_raw.html"
+    },
+    {
+      "id": 105,
+      "url": "https://dgicahul.md/category/noutati",
+      "entity_name": "Direc\u021bia General\u0103 de \u00cenv\u0103\u021b\u0103m\u00e2nt Cahul",
+      "ecosystem_role": "Higher Education Institutions",
+      "brief_description": "Cahul General Directorate of Education is a higher education institution operating within the circular economy ecosystem.",
+      "ce_relation": "",
+      "ce_activities": [],
+      "capabilities_offered": "[]",
+      "needs_requirements": [],
+      "capability_categories": [],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [],
+      "ce_capabilities_offered": [],
+      "ce_needs_requirements": [],
+      "mentioned_partners": [],
+      "discovered_entities": [
+        {
+          "name": "Ministerul Educa\u021biei",
+          "url": "http://www.edu.gov.md/",
+          "brief_description": "The Ministry of Education in Moldova.",
+          "context": "Mentioned as a relevant government entity."
+        },
+        {
+          "name": "Sigur Online",
+          "url": "https://siguronline.md/",
+          "brief_description": "A website related to online safety and security.",
+          "context": "Discovered in the context of online resources."
+        },
+        {
+          "name": "Consiliul Na\u021bional pentru protec\u021bia Drepturilor Copilului",
+          "url": "http://www.cnpdc.gov.md/ro",
+          "brief_description": "The National Council for the Protection of Children's Rights in Moldova.",
+          "context": "Mentioned as a relevant government entity."
+        }
+      ],
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "extraction_timestamp": "2025-12-30T01:07:32.154360",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/d75db5db3619a1f7/20251230_002934_extracted.txt",
+      "raw_html_original_path": "raw_html/d75db5db3619a1f7/20251230_002934_raw.html"
+    },
+    {
+      "id": 106,
+      "url": "https://srl.md/firma-de-productie-si-comert-sanda-societate-cu-raspundere-limitata",
+      "entity_name": "Firma De Productie Si Comert \"Sanda\"-Societate Cu Raspundere Limitata",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "Produces other products from non-metallic minerals and engages in retail trade; repairs household and personal items.",
+      "ce_relation": "Contributes to the circular economy by repairing household and personal items, extending their lifespan.",
+      "ce_activities": [
+        "Repair services and workshops"
+      ],
+      "capabilities_offered": "[]",
+      "needs_requirements": [],
+      "capability_categories": [],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [
+        {
+          "activity_name": "Repair services and workshops",
+          "description": "Providing repair services for household and personal items to extend product lifespans.",
+          "category": "Use & Consumption"
+        }
+      ],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Repair Services",
+          "description": "Provides repair services for household and personal items.",
+          "category": "Product Life Extension"
+        }
+      ],
+      "ce_needs_requirements": [],
+      "mentioned_partners": [],
+      "discovered_entities": [
+        {
+          "name": "Firma De Productie Si Comert 'Sanda'",
+          "url": "https://www.srl.md",
+          "brief_description": "A limited liability company engaged in production and trade of non-metallic mineral products, retail trade, and repair services.",
+          "context": "Mentioned on the website with details about their activities."
+        }
+      ],
+      "address": "Cahul, str. Muncii, 1",
+      "latitude": 45.8822464,
+      "longitude": 28.183136,
+      "extraction_timestamp": "2025-12-30T01:08:14.877870",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/454819af52c8a088/20251230_010020_extracted.txt",
+      "raw_html_original_path": "raw_html/454819af52c8a088/20251230_010020_raw.html"
+    },
+    {
+      "id": 107,
+      "url": "https://www.mshop.md/",
+      "entity_name": "MATERIALE SI PRODUSE PENTRU CONSTRUC\u021aII SRL",
+      "ecosystem_role": "Industry Partners",
+      "brief_description": "Supplier of materials and products for construction and repairs, offering a wide range of products at competitive prices.",
+      "ce_relation": "",
+      "ce_activities": [],
+      "capabilities_offered": "[]",
+      "needs_requirements": [],
+      "capability_categories": [],
+      "partners": [],
+      "partner_urls": [],
+      "ce_activities_structured": [],
+      "ce_capabilities_offered": [
+        {
+          "capability_name": "Repair Services",
+          "description": "Provides repair services for various construction and household products.",
+          "category": "Product Life Extension"
+        },
+        {
+          "capability_name": "Recycled Plastic Supply",
+          "description": "Supplies recycled plastic materials such as polystyrene plates, vinyl planks, and other recycled building materials.",
+          "category": "Sustainable Materials"
+        }
+      ],
+      "ce_needs_requirements": [],
+      "mentioned_partners": [],
+      "discovered_entities": [],
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "extraction_timestamp": "2025-12-30T01:09:41.202880",
+      "extraction_confidence": 0.8,
+      "raw_html_path": "raw_html/8a8e9b97546f5538/20251230_005727_extracted.txt",
+      "raw_html_original_path": "raw_html/8a8e9b97546f5538/20251230_005727_raw.html"
+    }
+  ],
+  "relationships": [],
+  "ecosystem_insights": [
+    {
+      "id": 26,
+      "insight_type": "synergy",
+      "title": "COMPLEMENTARY_ACTIVITIES: Societatea Cu R\u0103spundere Limitat\u0103 Good Life, \u00centreprinderea Mixt\u0103 ECO SISTEM S.R.L.",
+      "description": "Good Life engages in waste management, including collection and sorting. ECO SISTEM SRL is involved in the recovery of recyclable waste and metal residues. They can collaborate to ensure that collected waste is effectively processed and recycled.",
+      "entities_involved": [
+        "Societatea Cu R\u0103spundere Limitat\u0103 Good Life",
+        "\u00centreprinderea Mixt\u0103 ECO SISTEM S.R.L."
+      ],
+      "confidence": 0.85,
+      "priority": "high",
+      "timestamp": "2026-02-03T01:30:54.804202"
+    },
+    {
+      "id": 27,
+      "insight_type": "synergy",
+      "title": "COMPLEMENTARY_ACTIVITIES: Societatea Cu R\u0103spundere Limitat\u0103 Good Life, Gospodaria Comunal Locativ\u0103 Cahul",
+      "description": "Good Life and Gospodaria Comunal Locativ\u0103 Cahul both engage in waste collection and sorting. They can collaborate to optimize their operations, share resources, and improve the efficiency of waste management services.",
+      "entities_involved": [
+        "Societatea Cu R\u0103spundere Limitat\u0103 Good Life",
+        "Gospodaria Comunal Locativ\u0103 Cahul"
+      ],
+      "confidence": 0.9,
+      "priority": "high",
+      "timestamp": "2026-02-03T01:30:54.804214"
+    },
+    {
+      "id": 28,
+      "insight_type": "synergy",
+      "title": "COMPLEMENTARY_ACTIVITIES: Firma Cvemax SRL, Societatea cu R\u0103spundere Limitat\u0103 JARDIN EXPERT",
+      "description": "Both entities offer repair services for household and personal items. They can collaborate to share knowledge, resources, and potentially expand their service offerings.",
+      "entities_involved": [
+        "Firma Cvemax SRL",
+        "Societatea cu R\u0103spundere Limitat\u0103 JARDIN EXPERT"
+      ],
+      "confidence": 0.75,
+      "priority": "medium",
+      "timestamp": "2026-02-03T01:30:54.804217"
+    },
+    {
+      "id": 29,
+      "insight_type": "synergy",
+      "title": "COMPLEMENTARY_ACTIVITIES: Societatea Cu R\u0103spundere Limitat\u0103 Sudserv N&D, Firma De Productie Si Comert 'Sanda'-Societate Cu Raspundere Limitata",
+      "description": "Both entities offer repair services for household and personal items. They can collaborate to share resources, knowledge, and potentially expand their service offerings.",
+      "entities_involved": [
+        "Societatea Cu R\u0103spundere Limitat\u0103 Sudserv N&D",
+        "Firma De Productie Si Comert 'Sanda'-Societate Cu Raspundere Limitata"
+      ],
+      "confidence": 0.7,
+      "priority": "medium",
+      "timestamp": "2026-02-03T01:30:54.804220"
+    },
+    {
+      "id": 30,
+      "insight_type": "potential_synergy",
+      "title": "[Potential] COMPLEMENTARY_ACTIVITIES: Societatea Cu R\u0103spundere Limitat\u0103 Garden House, Firma De Productie Si Comert 'Sanda'-Societate Cu Raspundere Limitata",
+      "description": "Garden House is involved in waste collection and hazardous waste management, while Sanda offers repair services for household items. They can collaborate to ensure that repaired items are disposed of safely.\n\n[Note: This is a potential synergy that may benefit from further investigation.]",
+      "entities_involved": [
+        "Societatea Cu R\u0103spundere Limitat\u0103 Garden House",
+        "Firma De Productie Si Comert 'Sanda'-Societate Cu Raspundere Limitata"
+      ],
+      "confidence": 0.65,
+      "priority": "low",
+      "timestamp": "2026-02-03T01:30:54.804223"
+    },
+    {
+      "id": 31,
+      "insight_type": "synergy",
+      "title": "VALUE_CHAIN: Societatea Cu R\u0103spundere Limitat\u0103 Sudserv N&D, \u00centreprinderea Mixt\u0103 ECO SISTEM S.R.L.",
+      "description": "Sudserv N&D is involved in dismantling and recycling machinery, while ECO SISTEM SRL recovers recyclable waste. They can collaborate to ensure that dismantled machinery components are effectively recycled.",
+      "entities_involved": [
+        "Societatea Cu R\u0103spundere Limitat\u0103 Sudserv N&D",
+        "\u00centreprinderea Mixt\u0103 ECO SISTEM S.R.L."
+      ],
+      "confidence": 0.8,
+      "priority": "high",
+      "timestamp": "2026-02-03T01:30:54.804226"
+    },
+    {
+      "id": 32,
+      "insight_type": "synergy",
+      "title": "VALUE_CHAIN: Societatea Cu R\u0103spundere Limitat\u0103 Sudserv N&D, Gospodaria Comunal Locativ\u0103 Cahul",
+      "description": "Sudserv N&D is involved in dismantling and recycling machinery, while Gospodaria Comunal Locativ\u0103 Cahul collects waste. They can collaborate to ensure that collected waste from dismantled machinery is effectively recycled.",
+      "entities_involved": [
+        "Societatea Cu R\u0103spundere Limitat\u0103 Sudserv N&D",
+        "Gospodaria Comunal Locativ\u0103 Cahul"
+      ],
+      "confidence": 0.75,
+      "priority": "high",
+      "timestamp": "2026-02-03T01:30:54.804228"
+    },
+    {
+      "id": 33,
+      "insight_type": "synergy",
+      "title": "VALUE_CHAIN: Societatea Cu R\u0103spundere Limitat\u0103 Sudserv N&D, Societatea cu R\u0103spundere Limitat\u0103 JARDIN EXPERT",
+      "description": "Both entities are involved in waste management and construction activities. They can collaborate to ensure that construction waste is effectively managed and recycled.",
+      "entities_involved": [
+        "Societatea Cu R\u0103spundere Limitat\u0103 Sudserv N&D",
+        "Societatea cu R\u0103spundere Limitat\u0103 JARDIN EXPERT"
+      ],
+      "confidence": 0.7,
+      "priority": "medium",
+      "timestamp": "2026-02-03T01:30:54.804233"
+    },
+    {
+      "id": 34,
+      "insight_type": "potential_synergy",
+      "title": "[Potential] GEOGRAPHIC_CLUSTER: Societatea Cu R\u0103spundere Limitat\u0103 Garden House, \u00centreprinderea Mixt\u0103 ECO SISTEM S.R.L.",
+      "description": "Both entities are located in Cahul and involved in waste management. They can collaborate to share resources, knowledge, and improve the efficiency of their operations.\n\n[Note: This is a potential synergy that may benefit from further investigation.]",
+      "entities_involved": [
+        "Societatea Cu R\u0103spundere Limitat\u0103 Garden House",
+        "\u00centreprinderea Mixt\u0103 ECO SISTEM S.R.L."
+      ],
+      "confidence": 0.6,
+      "priority": "low",
+      "timestamp": "2026-02-03T01:30:54.804236"
+    },
+    {
+      "id": 35,
+      "insight_type": "potential_synergy",
+      "title": "[Potential] SHARED_RESOURCES: Societatea Cu R\u0103spundere Limitat\u0103 Sudserv N&D, Firma Cvemax SRL",
+      "description": "Both entities offer repair services and engage in construction activities. They can collaborate to share resources, knowledge, and potentially expand their service offerings.\n\n[Note: This is a potential synergy that may benefit from further investigation.]",
+      "entities_involved": [
+        "Societatea Cu R\u0103spundere Limitat\u0103 Sudserv N&D",
+        "Firma Cvemax SRL"
+      ],
+      "confidence": 0.65,
+      "priority": "low",
+      "timestamp": "2026-02-03T01:30:54.804239"
+    },
+    {
+      "id": 36,
+      "insight_type": "potential_synergy",
+      "title": "[Potential] SHARED_RESOURCES: Societatea Cu R\u0103spundere Limitat\u0103 Sudserv N&D, Firma De Productie Si Comert 'Sanda'-Societate Cu Raspundere Limitata",
+      "description": "Both entities offer repair services and engage in construction activities. They can collaborate to share resources, knowledge, and potentially expand their service offerings.\n\n[Note: This is a potential synergy that may benefit from further investigation.]",
+      "entities_involved": [
+        "Societatea Cu R\u0103spundere Limitat\u0103 Sudserv N&D",
+        "Firma De Productie Si Comert 'Sanda'-Societate Cu Raspundere Limitata"
+      ],
+      "confidence": 0.6,
+      "priority": "low",
+      "timestamp": "2026-02-03T01:30:54.804241"
+    },
+    {
+      "id": 37,
+      "insight_type": "synergy",
+      "title": "INDUSTRIAL_SYMBIOSIS: Societatea Cu R\u0103spundere Limitat\u0103 Sudserv N&D, \u00centreprinderea Mixt\u0103 ECO SISTEM S.R.L.",
+      "description": "Sudserv N&D is involved in dismantling and recycling machinery, while ECO SISTEM SRL recovers recyclable waste. They can collaborate to ensure that byproducts from dismantled machinery are effectively recycled.",
+      "entities_involved": [
+        "Societatea Cu R\u0103spundere Limitat\u0103 Sudserv N&D",
+        "\u00centreprinderea Mixt\u0103 ECO SISTEM S.R.L."
+      ],
+      "confidence": 0.75,
+      "priority": "high",
+      "timestamp": "2026-02-03T01:30:54.804243"
+    },
+    {
+      "id": 38,
+      "insight_type": "gap",
+      "title": "[CAPABILITY-NEED GAPS] Recycling Infrastructure Access Gap",
+      "description": "There is a significant need for recycling infrastructure access, but only two entities provide material recovery services and waste management services. This gap affects four entities that require such infrastructure.",
+      "entities_involved": [
+        "Sustainable Material Sourcing",
+        "Waste Management Solutions"
+      ],
+      "confidence": 0.75,
+      "priority": "medium",
+      "timestamp": "2026-02-03T01:32:10.206469"
+    },
+    {
+      "id": 39,
+      "insight_type": "gap",
+      "title": "[VALUE CHAIN GAPS] Design for Circularity and Disassembly Underrepresentation",
+      "description": "Only two entities are involved in design for circularity and disassembly, which is a critical stage to ensure products can be easily recycled or reused. This underrepresentation could lead to inefficiencies in the recycling process.",
+      "entities_involved": [
+        "Design for Circularity and Disassembly"
+      ],
+      "confidence": 0.65,
+      "priority": "low",
+      "timestamp": "2026-02-03T01:32:10.206481"
+    },
+    {
+      "id": 40,
+      "insight_type": "gap",
+      "title": "[ROLE DISTRIBUTION GAPS] Underrepresented Roles in the Ecosystem",
+      "description": "Roles such as Public Authorities, Startups and Entrepreneurs, Non-Governmental Organizations, End-Users, Media and Communication Partners are underrepresented with only 1 entity each. This imbalance can limit the diversity of perspectives and innovation within the ecosystem.",
+      "entities_involved": [
+        "Public Authorities",
+        "Startups and Entrepreneurs",
+        "Non-Governmental Organizations",
+        "End-Users",
+        "Media and Communication Partners"
+      ],
+      "confidence": 0.75,
+      "priority": "medium",
+      "timestamp": "2026-02-03T01:32:10.206484"
+    },
+    {
+      "id": 41,
+      "insight_type": "gap",
+      "title": "[GEOGRAPHIC GAPS] Uneven Geographic Distribution of CE Actors",
+      "description": "The majority of the entities are concentrated in a few locations, such as \u0218oseaua Grivi\u021bei and str. \u015eolohov Mihail, while other areas have no presence at all. This uneven distribution can lead to accessibility issues for services.",
+      "entities_involved": [
+        "All entities"
+      ],
+      "confidence": 0.65,
+      "priority": "low",
+      "timestamp": "2026-02-03T01:32:10.206487"
+    },
+    {
+      "id": 42,
+      "insight_type": "gap",
+      "title": "[ACTIVITY COVERAGE GAPS] Missing Sharing Platforms and Remanufacturing Activities",
+      "description": "There are no activities related to sharing platforms or remanufacturing, which are important aspects of the circular economy. This gap can limit the diversity of business models within the ecosystem.",
+      "entities_involved": [
+        "All entities"
+      ],
+      "confidence": 0.65,
+      "priority": "low",
+      "timestamp": "2026-02-03T01:32:10.206489"
+    },
+    {
+      "id": 43,
+      "insight_type": "recommendation",
+      "title": "[HIGH] Establish partnerships between industry partners and startup",
+      "description": "Establish partnerships between industry partners and startups to develop recycling infrastructure.\n\nTarget: Industry Partners, Startups and Entrepreneurs\n\nExpected Impact: Increase the availability of recycling infrastructure access and foster innovation in waste management solutions.",
+      "entities_involved": [],
+      "confidence": 0.8,
+      "priority": "high",
+      "timestamp": "2026-02-03T01:32:10.206495"
+    },
+    {
+      "id": 44,
+      "insight_type": "recommendation",
+      "title": "[MEDIUM] Promote design for circularity workshops and certifications ",
+      "description": "Promote design for circularity workshops and certifications among product designers and manufacturers.\n\nTarget: Higher Education Institutions, Industry Partners\n\nExpected Impact: Enhance the capability to design products that are easier to recycle or disassemble, improving material recovery rates.",
+      "entities_involved": [],
+      "confidence": 0.7,
+      "priority": "medium",
+      "timestamp": "2026-02-03T01:32:10.206499"
+    },
+    {
+      "id": 45,
+      "insight_type": "recommendation",
+      "title": "[MEDIUM] Encourage more public authorities and NGOs to participate in",
+      "description": "Encourage more public authorities and NGOs to participate in CE initiatives.\n\nTarget: Public Authorities, Non-Governmental Organizations\n\nExpected Impact: Increase the diversity of perspectives and enhance policy support for circular economy activities.",
+      "entities_involved": [],
+      "confidence": 0.7,
+      "priority": "medium",
+      "timestamp": "2026-02-03T01:32:10.206502"
+    },
+    {
+      "id": 46,
+      "insight_type": "recommendation",
+      "title": "[LOW] Develop a regional CE hub to centralize services and resourc",
+      "description": "Develop a regional CE hub to centralize services and resources.\n\nTarget: All entities\n\nExpected Impact: Improve accessibility of circular economy services across different geographic areas, reducing concentration issues.",
+      "entities_involved": [],
+      "confidence": 0.6,
+      "priority": "low",
+      "timestamp": "2026-02-03T01:32:10.206505"
+    },
+    {
+      "id": 47,
+      "insight_type": "recommendation",
+      "title": "[MEDIUM] Introduce remanufacturing and sharing platform business mode",
+      "description": "Introduce remanufacturing and sharing platform business models into the ecosystem.\n\nTarget: Industry Partners, Startups and Entrepreneurs\n\nExpected Impact: Diversify business models within the circular economy, enhancing sustainability practices.",
+      "entities_involved": [],
+      "confidence": 0.7,
+      "priority": "medium",
+      "timestamp": "2026-02-03T01:32:10.206507"
+    },
+    {
+      "id": 48,
+      "insight_type": "value_chain_opportunity",
+      "title": "Value Chain Flow: Design & Production -> Use & Consumption",
+      "description": "Potential material flow identified between 6 entities in 'Design & Production' and 18 entities in 'Use & Consumption'.",
+      "entities_involved": [
+        "Societatea cu R\u0103spundere Limitat\u0103 JARDIN EXPERT",
+        "Societatea Cu R\u0103spundere Limitat\u0103 Good Life",
+        "Societatea Cu R\u0103spundere Limitat\u0103 Sudserv N&D",
+        "CasaAuto.md",
+        "Gospodaria Comunal Locativ\u0103 Cahul",
+        "MATERIALE SI PRODUSE PENTRU CONSTRUC\u021aII SRL"
+      ],
+      "confidence": 0.7,
+      "priority": "medium",
+      "timestamp": "2026-02-03T01:32:10.207046"
+    },
+    {
+      "id": 49,
+      "insight_type": "value_chain_opportunity",
+      "title": "Value Chain Flow: Use & Consumption -> Collection & Logistics",
+      "description": "Potential material flow identified between 18 entities in 'Use & Consumption' and 4 entities in 'Collection & Logistics'.",
+      "entities_involved": [
+        "CasaAuto.md",
+        "Gospodaria Comunal Locativ\u0103 Cahul",
+        "MATERIALE SI PRODUSE PENTRU CONSTRUC\u021aII SRL",
+        "Societatea Cu R\u0103spundere Limitat\u0103 Good Life",
+        "Societatea Cu R\u0103spundere Limitat\u0103 Garden House",
+        "Gospodaria Comunal Locativ\u0103 Cahul"
+      ],
+      "confidence": 0.7,
+      "priority": "medium",
+      "timestamp": "2026-02-03T01:32:10.207054"
+    },
+    {
+      "id": 50,
+      "insight_type": "value_chain_opportunity",
+      "title": "Value Chain Flow: Collection & Logistics -> Recycling & Processing",
+      "description": "Potential material flow identified between 4 entities in 'Collection & Logistics' and 3 entities in 'Recycling & Processing'.",
+      "entities_involved": [
+        "Societatea Cu R\u0103spundere Limitat\u0103 Good Life",
+        "Societatea Cu R\u0103spundere Limitat\u0103 Garden House",
+        "Gospodaria Comunal Locativ\u0103 Cahul",
+        "Societatea Cu R\u0103spundere Limitat\u0103 Sudserv N&D",
+        "Covoare Ungheni",
+        "\u00centreprindere Mixt\u0103 ECO SISTEM S.R.L."
+      ],
+      "confidence": 0.7,
+      "priority": "medium",
+      "timestamp": "2026-02-03T01:32:10.207057"
+    },
+    {
+      "id": 51,
+      "insight_type": "value_chain_opportunity",
+      "title": "Value Chain Flow: Recycling & Processing -> Resource Recovery",
+      "description": "Potential material flow identified between 3 entities in 'Recycling & Processing' and 4 entities in 'Resource Recovery'.",
+      "entities_involved": [
+        "Societatea Cu R\u0103spundere Limitat\u0103 Sudserv N&D",
+        "Covoare Ungheni",
+        "\u00centreprindere Mixt\u0103 ECO SISTEM S.R.L.",
+        "Societatea Cu R\u0103spundere Limitat\u0103 Good Life",
+        "Societatea cu R\u0103spundere Limitat\u0103 PRO100-SERVICE",
+        "\u0218coala Profesional\u0103 nr. 2 din Cahul"
+      ],
+      "confidence": 0.7,
+      "priority": "medium",
+      "timestamp": "2026-02-03T01:32:10.207060"
+    },
+    {
+      "id": 52,
+      "insight_type": "value_chain_opportunity",
+      "title": "Value Chain Flow: Resource Recovery -> Secondary Materials",
+      "description": "Potential material flow identified between 4 entities in 'Resource Recovery' and 3 entities in 'Secondary Materials'.",
+      "entities_involved": [
+        "Societatea Cu R\u0103spundere Limitat\u0103 Good Life",
+        "Societatea cu R\u0103spundere Limitat\u0103 PRO100-SERVICE",
+        "\u0218coala Profesional\u0103 nr. 2 din Cahul",
+        "IP Gimnaziul 'Dimitrie Cantemir'",
+        "Gospodaria Comunal Locativ\u0103 Cahul",
+        "MATERIALE SI PRODUSE PENTRU CONSTRUC\u021aII SRL"
+      ],
+      "confidence": 0.7,
+      "priority": "medium",
+      "timestamp": "2026-02-03T01:32:10.207063"
+    },
+    {
+      "id": 53,
+      "insight_type": "geographic_cluster",
+      "title": "Industrial Symbiosis Opportunity #1",
+      "description": "Geographic cluster of 16 entities within 5.0km: Societatea Cu R\u0103spundere Limitat\u0103 Good Life, Firma Cvemax SRL, IP Liceul Teoretic \u201eIoan Vod\u0103\u201d, Societatea Cu R\u0103spundere Limitat\u0103 Servnic&Tan, Parcul Industrial Cahul Sudinvest.... Diverse activities (7 unique) and roles (3) suggest potential for industrial symbiosis - material/resource sharing, joint infrastructure, or waste-to-resource exchanges.",
+      "entities_involved": [
+        "Societatea Cu R\u0103spundere Limitat\u0103 Good Life",
+        "Firma Cvemax SRL",
+        "IP Liceul Teoretic \u201eIoan Vod\u0103\u201d",
+        "Societatea Cu R\u0103spundere Limitat\u0103 Servnic&Tan",
+        "Parcul Industrial Cahul Sudinvest",
+        "Colegiul de Medicin\u0103 Cahul",
+        "\u00centreprindere Mixt\u0103 ECO SISTEM S.R.L.",
+        "Gospodaria Comunal Locativ\u0103 Cahul",
+        "Covoare Ungheni",
+        "LAPIN COM",
+        "MTC (Metal Cutting Company)",
+        "Parcul Industrial Cahul Sudinvest",
+        "Societatea cu R\u0103spundere Limitat\u0103 PRO100-SERVICE",
+        "Societatea Cu R\u0103spundere Limitat\u0103 Garden House",
+        "Societatea cu R\u0103spundere Limitat\u0103 JARDIN EXPERT",
+        "Firma De Productie Si Comert \"Sanda\"-Societate Cu Raspundere Limitata"
+      ],
+      "confidence": 0.75,
+      "priority": "medium",
+      "timestamp": "2026-02-03T01:32:10.207694"
+    }
+  ]
+}
