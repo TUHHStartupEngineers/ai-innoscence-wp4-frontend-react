@@ -1,5 +1,6 @@
 import React, { useContext, useState } from 'react';
 import { AppContext } from '../components/Layout/AppShell';
+import { CollaborationGuide } from '../components/CollaborationGuide';
 import { CE_ACTIVITIES_TAXONOMY, mapToTaxonomyCategory } from '../types/taxonomy';
 import { Zap, Target, Activity as ActivityIcon } from 'lucide-react';
 import { clsx } from 'clsx';
@@ -46,6 +47,7 @@ const Collaboration: React.FC = () => {
             </div>
 
             <div className="max-w-[1200px] mx-auto px-5 lg:px-0">
+                <CollaborationGuide />
                 {activeTab === 'activities' && <ActivitiesBrowser entities={data.entities} />}
                 {activeTab === 'capabilities' && <CapabilitiesBrowser entities={data.entities} />}
                 {activeTab === 'needs' && <NeedsBrowser entities={data.entities} />}

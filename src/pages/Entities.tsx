@@ -148,9 +148,13 @@ const Entities: React.FC = () => {
                             <div className="pt-6 border-t border-gray-50 flex items-center justify-between">
                                 <div className="flex items-center gap-2">
                                     {entity.ce_activities && entity.ce_activities.length > 0 && (
-                                        <span className="text-sm font-semibold text-brand-primary">
-                                            {entity.ce_activities.length} Activities
-                                        </span>
+                                        <div className="flex flex-wrap gap-1.5">
+                                            {entity.ce_activities.map((activity: string, i: number) => (
+                                                <span key={i} className="inline-flex px-2 py-0.5 rounded text-xs font-medium bg-brand-primary/5 text-brand-primary border border-brand-primary/10">
+                                                    {activity}
+                                                </span>
+                                            ))}
+                                        </div>
                                     )}
                                 </div>
 
